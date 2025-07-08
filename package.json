@@ -11,7 +11,11 @@
     "supabase:start": "supabase start",
     "supabase:stop": "supabase stop",
     "supabase:status": "supabase status",
-    "supabase:reset": "supabase db reset"
+    "supabase:reset": "supabase db reset",
+    "convert:ny": "node scripts/convert_ny_data.js",
+    "import:ny": "node scripts/import_ny_direct.js",
+    "generate:ny": "node scripts/generate_ny_migration.js",
+    "db:migrate": "supabase db push"
   },
   "keywords": [
     "territory-management",
@@ -23,9 +27,10 @@
   "author": "Your Name",
   "license": "MIT",
   "devDependencies": {
-    "supabase": "^1.0.0"
+    "supabase": "^1.226.4"
   },
   "dependencies": {
-    "@supabase/supabase-js": "^2.0.0"
+    "@supabase/supabase-js": "^2.0.0",
+    "dotenv": "^16.0.0"
   }
 }

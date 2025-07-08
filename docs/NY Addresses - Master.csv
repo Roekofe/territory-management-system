@@ -1,0 +1,415 @@
+Hoodie ID,Dispensary,Address,License #,Territory,County,May Sales,Total Monthly Sales,Tier,Street Address,City,Postal Code,Sales Rep,Hoodie,hubspot,nabis 
+1707511906738,400 River Dispensary and Lounge - Troy,"400 River St, Troy, NY 12180, USA",OCM-MICR-24-000081,NY green,Rensselaer,,"$500,000",t2,400 River St,Troy,12180,Jordan,TRUE,FALSE,FALSE
+1702662094624,420 Bliss - Troy,"740 Hoosick Rd, Troy, NY 12180, USA",OCM-CAURD-23-000032,NY green,Rensselaer,,"$250,000",t3,740 Hoosick Rd,Troy,12180,Jordan,TRUE,FALSE,FALSE
+1729280362456,716 Cannabis - Blasdell,"5161 Camp Rd, Hamburg, NY 14075, USA",OCM-CAURD-23-000043,NY green,Erie,,"$500,000",t2,5161 Camp Rd,Hamburg,14219,Jordan,TRUE,FALSE,FALSE
+1717779869651,82-J - Buffalo,"1673 Hertel Ave, Buffalo, NY 14216, USA",OCM-CAURD-24-000148,NY green,Erie,,"$500,000",t2,1673 Hertel Ave,Buffalo,14216,Jordan,TRUE,FALSE,FALSE
+1729540389920,Ace High Dispensary - Irving,"11285 Route 20, Irving, NY 14081, USA",Unspecified,NY green,Chautauqua,,"$250,000",t3,11285 US-20,Irving,14081,Josh,TRUE,FALSE,FALSE
+1711729234236,Air City Cannabis - Utica,"1707 Oriskany St W, Utica, NY 13502, USA",OCM-CAURD-24-000152,NY green,Oneida,,0,t4,1707 Oriskany St W Suite 150,Utica,13502,Jordan,TRUE,FALSE,FALSE
+1722024445382,Allegany River Front Panama Reds Dispensary,"36 River St, Salamanca, NY 14779, USA",Unspecified,NY green,Cattaraugus,,"$250,000",t3,36 River St,Salamanca,14779,Josh,TRUE,FALSE,FALSE
+1708717269937,Alta Dispensary,"52 Kenmare St A, New York, NY 10012, USA",OCM-RETL-24-000104,NY red,New York,"$2,738.02","$250,000",t3,52 Kenmare St A,Manhattan,10012,Ari/Lorena,TRUE,FALSE,FALSE
+1633575762610,Alto on Chambers,"110 Chambers St, New York, NY 10007, USA",OCM-CAURD-24-000129,NY red,New York,,"$1,000,000",t1,110 Chambers St,Manhattan,10001,Ari/Lorena,TRUE,FALSE,FALSE
+1633575765701,Amsterdam Cannabis,"1451 Route 5S, Amsterdam, NY 12010, USA",OCM-CAURD-23-000033,NY green,Montgomery,"$4,973.99","$750,000",t1,1451 NY-5S,Amsterdam,12010,Jordan,TRUE,FALSE,FALSE
+1633575763634,Aroma Farms,"20917 Northern Blvd, Bayside, NY 11361, USA",Unspecified,NY yellow,Queens,,"$1,250,000",t1,20917 Northern Blvd,Queens,11361,Ari/Lorena,TRUE,FALSE,FALSE
+1633575766714,Aspire Cannabis,"205 N Fulton St, Ithaca, NY 14850, USA",OCM-CAURD-24-000106,NY green,Tompkins,$741.71,"$500,000",t2,205 N Fulton St,Ithaca,14850,Josh,TRUE,FALSE,FALSE
+,Back Home Dispensary,"3056 NY-213, Stone Ridge, NY 12484, USA",Unspecified,NY green,Ulster,,"$250,000",t3,3056 NY-213,Stone Ridge,12484,Josh,TRUE,FALSE,FALSE
+1638730844215,Bad Maryjane - Brooklyn,"799 Lexington Ave, Manhattan, NY 10065, USA",Unspecified,NY red,New York,,0,t4,799 Lexington Ave,Manhattan,11221,Ari/Lorena,TRUE,FALSE,FALSE
+1702052205947,Bayside Cannabis Dispensary,"224-15 Union Tpke, Oakland Gardens, NY 11364, USA",OCM-RETL-24-000026,NY yellow,Queens,,"$750,000",t1,224-15 Union Tpke,Queens,11364,Ari/Lorena,TRUE,FALSE,FALSE
+1737739727411,Be. - Brooklyn,"202 Flatbush Ave, Brooklyn, NY 11217, USA",MM0906D,NY red,Kings,,"$250,000",t3,202 Flatbush Ave,Brooklyn,11217,Ari/Lorena,TRUE,FALSE,FALSE
+1731437570183,Be. - Hudson Valley,"1147 Route 9, Wappingers Falls, NY 12590, USA",MM0904D,NY green,Dutchess,,"$500,000",t2,1147 US-9,Wappinger Falls,12590,Josh,TRUE,FALSE,FALSE
+,Be. - Staten Island,"338 New Dorp Ln, Staten Island, NY 10306, USA",MM0903D,NY red,Richmond,,"$250,000",t3,338 New Dorp Ln,Staten Island,10306,Ari/Lorena,TRUE,FALSE,FALSE
+1722024438370,Bedford Club - Brooklyn,"1102 Bedford Ave, Brooklyn, NY 11216, USA",OCM-CAURD-24-000095,NY red,Kings,,"$500,000",t2,1102 Bedford Ave,Brooklyn,11216,Ari/Lorena,TRUE,FALSE,FALSE
+1689353832321,Beleaf - Brooklyn,"1077 Atlantic Ave, Brooklyn, NY 11238, USA",OCM-RETL-24-000037,NY red,Kings,,"$500,000",t2,1077-1081 Atlantic Ave,Brooklyn,11238,Ari/Lorena,TRUE,FALSE,FALSE
+1706900901058,Beleaf - Calverton,"4462 Middle Country Rd, Calverton, NY 11933, USA",OCM-CAURD-24-000216,NY red,Suffolk,,"$250,000",t3,4462 Middle Country Rd,Calverton,11933,Ari/Lorena,TRUE,FALSE,FALSE
+1738952538084,Bethel Buds - White Lake,"1577 NY-17B, White Lake, NY 12786, USA",OCM-RETL-24-000049,NY green,Sullivan,,"$250,000",t3,1577 NY-17B,White Lake,12786,Josh,TRUE,FALSE,FALSE
+1739572862330,Big Gas Dispensary - New Paltz,"98 N Chestnut St, New Paltz, NY 12561, USA",OCM-CAURD-24-000118,NY green,Ulster,,"$500,000",t2,98 N Chestnut St,New Paltz,12561,Josh,TRUE,FALSE,FALSE
+1697467458672,BK Exotic Dispensary - Brooklyn,"1056 Flatbush Ave, Brooklyn, NY 11226, USA",OCM-CAURD-24-000048,NY red,Kings,$0.00,"$250,000",t3,1056 Flatbush Ave,Brooklyn,11226,Ari/Lorena,TRUE,FALSE,FALSE
+1715959543453,Black Market Canna - Poughkeepsie,"89 Main St, Poughkeepsie, NY 12601, USA",OCM-CAURD-24-000088,NY green,Dutchess,"$2,068.75","$1,000,000",t1,89 Main St,Poughkeepsie,12601,Josh,TRUE,FALSE,FALSE
+1728666766274,Black River Supply Company,"15 Bridge St, Carthage, NY 13619, USA",Unspecified,NY green,Jefferson,,"$250,000",t3,15 Bridge St,Carthage,13619,Josh,TRUE,FALSE,FALSE
+1672163518870,Bleu Leaf Dispensary,"2034 Jerome Ave, Bronx, NY 10453, USA",OCM-CAURD-24-000116,NY red,Bronx,"$2,341.09","$500,000",t2,2034 Jerome Ave,Bronx,10453,Ari/Lorena,TRUE,FALSE,FALSE
+1714158048856,Bliss + Lex,"128 East 86th St, New York, NY 10028, USA",OCM-CAURD-24-000087,NY red,New York,,"$750,000",t1,128 East 86th St,Manhattan,10028,Ari/Lorena,TRUE,FALSE,FALSE
+1737144770286,Bob Natural Cannabis Dispensary,"1067 E 2nd St, Jamestown, NY 14701, USA",OCM-RETL-24-000128,NY green,Chautauqua,,"$250,000",t3,1067 E 2nd St,Jamestown,14701,Josh,TRUE,FALSE,FALSE
+1725900476319,"Broadway Strains
+ - New York","3858 Broadway, Manhattan, NY 10032, USA",OCM-RETL-24-000106,NY red,New York,,0,t4,3858 Broadway,Manhattan,10032,Ari/Lorena,TRUE,FALSE,FALSE
+1706900155568,Bronx Joint,"925 Hunts Point Ave, Bronx, NY 10459, USA",OCM-CAURD-24-000064,NY red,Bronx,,"$500,000",t2,925 Hunts Point Ave,Bronx,10459,Ari/Lorena,TRUE,FALSE,FALSE
+1740773808564,Brooklyn Bourne Dispensary,"2225 Church Ave, Brooklyn, NY 11226, USA",OCM-CAURD-24-000188,NY red,Kings,"$1,999.16","$500,000",t2,2225 Church Ave,Brooklyn,11226,Ari/Lorena,TRUE,FALSE,FALSE
+1699833504204,Brown Budda New York,"1533 County Rd 39, Southampton, NY 11968, USA",OCM-CAURD-24-000157,NY red,New York,,"$250,000",t3,1533 County Rd 39,Manhattan,10016,Ari/Lorena,TRUE,FALSE,FALSE
+1714405279344,Brownies Dispensary,"1686 Central Ave, Colonie, NY 12205, USA",OCM-CAURD-24-000067,NY green,Albany,,"$250,000",t3,1686 Central Ave suite,Albany,12205,Jordan,TRUE,FALSE,FALSE
+1703281924521,Bud and Honey,"241 5th Ave, Manhattan, NY 10016, USA",Unspecified,NY red,New York,,"$250,000",t3,241 5th Ave,Manhattan,10016,Ari/Lorena,TRUE,FALSE,FALSE
+1727466010887,Bud City Cannabis LLC,"3343 Fulton St, Brooklyn, NY 11208, USA",Unspecified,NY red,Kings,,0,t4,3343 Fulton St,Brooklyn,11208,Ari/Lorena,TRUE,FALSE,FALSE
+1690589420452,Budd Barn - Monticello,"428 Broadway, Monticello, NY 12701, USA",OCM-CAURD-24-000122,NY green,Sullivan,$963.58,"$250,000",t3,428 Broadway,Monticello,12701,Josh,TRUE,FALSE,FALSE
+1731956890724,Buddeez - Rochester,"1460 Lyell Ave Suite, Rochester, NY 14606, USA",OCM-RETL-24-000117,NY green,Monroe,,"$250,000",t3,1460 Lyell Ave Suite #200,Rochester,14606,Jordan,TRUE,FALSE,FALSE
+1712358005165,Budds Dispensary - Catskill,"170 W Bridge St, Catskill, NY 12414, USA",OCM-RETL-24-000042,NY green,Greene,,"$500,000",t2,170 W Bridge St,Catskill,12414,Jordan,TRUE,FALSE,FALSE
+,Budr Cannabis - Yonkers NY,"887 Yonkers Ave, Yonkers, NY 10704, USA",OCM-CAURD-24-000208,NY red,Westchester,,"$250,000",t3,887 Yonkers Ave,Yonkers,10704,Ari/Lorena,TRUE,FALSE,FALSE
+1647456583210,Buffalo Dreams,"900 Niagara Falls Blvd, Buffalo, NY 14223, USA",OCM-CAURD-24-000070,NY green,Erie,,"$750,000",t1,Puffalo Dreams,Buffalo,14223,Jordan,TRUE,FALSE,FALSE
+1628693870871,By Any Other Name,"946 Fulton St, Brooklyn, NY 11238, USA",OCM-CAURD-24-000145,NY red,Kings,,"$250,000",t3,946 Fulton St,Brooklyn,11238,Ari/Lorena,TRUE,FALSE,FALSE
+1676305468077,Canna Buddha - Flushing,"215-46 39th Ave, Flushing, NY 11361, USA",Unspecified,NY yellow,Queens,$863.21,"$750,000",t1,215-46 39th Ave,Queens,11361,Ari/Lorena,TRUE,FALSE,FALSE
+,Canna Planet - Ellenville,"37 N Main St, Ellenville, NY 12428, USA",OCM-RETL-24-000168,NY green,Ulster,$757.23,"$750,000",t1,37 N Main St,Ellenville,12428,Jordan,TRUE,FALSE,FALSE
+1730497899460,Canna Planet - Kingston,"1223 Ulster Ave, Kingston, NY 12401, USA",OCM-RETL-24-000043,NY green,Ulster,"$1,957.22","$500,000",t2,1223 Ulster Ave,Kingston,12401,Jordan,TRUE,FALSE,FALSE
+1730497903557,Canna Planet - Monticello,"73 Pleasant St, Monticello, NY 12701, USA",OCM-RETL-24-000235,NY green,Sullivan,$391.13,"$750,000",t1,73 Pleasant St,Monticello,12701,Jordan,TRUE,FALSE,FALSE
+1693933063163,Canna Planet Dispensary - Wappingers,"1444 Route 9D, Wappingers Falls, NY 12508, USA ",OCM-CAURD-24-000206,NY green,Dutchess,$144.45,"$250,000",t3,1444 Route 9D,Wappingers Falls,12590,Jordan,TRUE,FALSE,FALSE
+1726251195188,Cannabicity,"220 Harborside Dr Suite 111, Schenectady, NY 12305, USA",OCM-RETL-24-000239,NY green,Schenectady,,"$250,000",t3,220 Harborside Dr Suite 111,Schenectady,12305,Jordan,TRUE,FALSE,FALSE
+1743781925603,Cannabis Central - Clifton Park,"1520 Crescent Rd, Clifton Park, NY 12065, USA",OCM-RETL-24-000190,NY green,Saratoga,,"$500,000",t2,1520 Crescent Rd #300,Clifton Park,12065,Jordan,TRUE,FALSE,FALSE
+1688158734311,CANNABIS DEPOT - Watertown,"23171 Murrock Cir, Watertown, NY 13601, USA",OCM-RETL-24-000024,NY green,Jefferson,"$3,958.13","$1,000,000",t1,23171 Murrock Cir,Watertown,13601,Josh,TRUE,FALSE,FALSE
+,Cannabis Hut - Newburgh,"165 S Plank Rd, Newburgh, NY 12550, USA",Unspecified,NY green,Orange,,0,t4,165 S Plank Rd,Newburgh,12550,Josh,TRUE,FALSE,FALSE
+1725374302774,Cannabis on Lex,"135 E 25th St, New York, NY 10010, USA",OCM-RETL-24-000263,NY red,New York,,"$250,000",t3,135 E 25th St,Manhattan,10017,Ari/Lorena,TRUE,FALSE,FALSE
+1619408189677,Cannabis Realm of New York,"475 Central Ave, White Plains, NY 10606, USA",OCM-CAURD-24-000046,NY red,Westchester,"$2,612.71","$1,000,000",t1,475 Central Ave,White Plains,10606,Ari/Lorena,TRUE,FALSE,FALSE
+1619408190679,Cannabist - Brooklyn,"44 Court St, Brooklyn, NY 11201, USA",MM0306D,NY red,Kings,,"$250,000",t3,44 Court St,Brooklyn,11201,Ari/Lorena,TRUE,FALSE,FALSE
+1619408214789,Cannadreams,"862 9th Ave, New York, NY 10019, USA",OCM-CAURD-24-000114,NY red,New York,"$2,746.12","$750,000",t1,862 9th Ave,Manhattan,10019,Ari/Lorena,TRUE,FALSE,FALSE
+1619408244913,Cannavita Dispensary,"30-30 Steinway St, Astoria, NY 11105, USA",OCM-CAURD-24-000052,NY red,Queens,"$5,776.46","$750,000",t1,30-30 Steinway St,Queens,11103,Ari/Lorena,TRUE,FALSE,FALSE
+1619408338427,Capital District Cannabis and Wellness Inc.,"997 Central Ave, Albany, NY 12205, USA",OCM-CAURD-23-000028,NY green,Albany,"$4,966.72","$500,000",t2,997 Central Ave,Albany,12205,Jordan,TRUE,FALSE,FALSE
+1619408339448,Catskill Mountain High Dispensary,"308 Plaza Rd, Kingston, NY 12401, USA",OCM-CAURD-24-000202,NY green,Ulster,,"$250,000",t3,308 Plaza Rd,Kingston,12401,Josh,TRUE,FALSE,FALSE
+1619408337413,Central Budz,"2247 Central Park Ave, Yonkers, NY 10710, USA",OCM-RETL-24-000020,NY red,Westchester,,"$500,000",t2,2247 Central Park Ave,Yonkers,10705,Ari/Lorena,TRUE,FALSE,FALSE
+1619408529213,Charlie Fox - New York,"719 7th Ave, New York, NY 10036, USA",OCM-RETL-24-000254,NY red,New York,,"$500,000",t2,719 7th Ave,Manhattan,10036,Ari/Lorena,TRUE,FALSE,FALSE
+1741374266418,Chelsea Cannabis Co - New York,"104 7th Ave, New York, NY 10011, USA",OCM-CAURD-25-000243,NY red,New York,,"$250,000",t3,104 7th Ave,Manhattan,10011,Ari/Lorena,TRUE,FALSE,FALSE
+1728399962896,Chronic Brooklyn,"483 3rd Ave, Brooklyn, NY 11215, USA",OCM-RETL-24-000051,NY red,Kings,,"$250,000",t3,483 3rd Ave,Brooklyn,11215,Ari/Lorena,TRUE,FALSE,FALSE
+1729280368631,Classy Canna,"8 N Main St, Homer, NY 13077, USA",OCM-RETL-24-000174,NY green,Cortland,,"$250,000",t3,8 N Main St,Homer,13077,Josh,TRUE,FALSE,FALSE
+1745022067561,Cloud 914,"807 Washington St, Peekskill, NY 10566, USA",OCM-RETL-24-000087,NY green,Westchester,"$5,158.21","$250,000",t3,807 Washington St,Peekskill,10566,Josh,TRUE,FALSE,FALSE
+1703274889426,Cloud Nine - Yonkers,"305 Saw Mill River Rd, Yonkers, NY 10701, USA",Unspecified,NY red,Westchester,,0,t4,305 Saw Mill River Rd,Yonkers,10701,Ari/Lorena,TRUE,FALSE,FALSE
+1732640695378,Clouditude Dispensary,"4034 Hylan Blvd, Staten Island, NY 10308, USA",Unspecified,NY red,Richmond,"$1,837.05","$500,000",t2,4034 Hylan Blvd,Staten Island,10308,Ari/Lorena,TRUE,FALSE,FALSE
+1732568252124,Collegetown Dispensary,"105 Dryden Rd, Ithaca, NY 14850, USA",OCM-RETL-24-000074,NY green,Tompkins,,"$250,000",t3,105 Dryden Rd,Ithaca,14850,Josh,TRUE,FALSE,FALSE
+1737739726387,CONBUD - Bronx,"2412 Third Ave, Bronx, NY 10454, USA",OCM-CAURD-24-000083,NY red,Bronx,,"$250,000",t3,2412 Third Ave,Bronx,10454,Ari/Lorena,TRUE,FALSE,FALSE
+1707604678714,CONBUD - Delancey Street,"85 Delancey St, New York, NY 10002, USA",OCM-CAURD-23-000021,NY red,New York,$0.00,"$750,000",t1,85 Delancey St,Manhattan,10002,Ari/Lorena,TRUE,FALSE,FALSE
+1734975169453,ConBud - Gerard Avenue,"888 Gerard Ave, Bronx, NY 10452, USA",OCM-CAURD-24-000220,NY red,Bronx,"$1,334.61","$250,000",t3,888 Gerard Ave,Bronx,10452,Ari/Lorena,TRUE,FALSE,FALSE
+1733170727608,Coney Island Cannabis,"875 Neptune Ave, Brooklyn, NY 11224, USA",Unspecified,NY red,Kings,,"$250,000",t3,875 Neptune Ave,Brooklyn,11224,Ari/Lorena,TRUE,FALSE,FALSE
+1738348353812,Cotton Mouth Dispensary - Binghamton,"439 Court St, Binghamton, NY 13904, USA",OCM-CAURD-25-000227,NY green,Broome,"$4,298.75",0,t4,439 Court St,Binghamton,13904,Jordan,TRUE,FALSE,FALSE
+1706282721958,County Road Cannabis - New Hampton,"1326 County Rd 12, New Hampton, NY 10958, USA",OCM-RETL-24-000059,NY red,Kings,,"$1,000,000",t1,1326 County Rd 12,New Hampton,10958,Ari/Lorena,TRUE,FALSE,FALSE
+1619543338684,Culture Cannabis Co - Corning,"90 E Market St, Corning, NY 14830, USA",OCM-CAURD-24-000221,NY green,Steuben,,0,t4,90 E Market St,Corning,14830,Josh,TRUE,FALSE,FALSE
+1731959351975,Culture House NYC,"958 6th Ave, New York, NY 10001, USA",OCM-CAURD-24-000049,NY red,New York,"$9,558.00","$1,250,000",t1,958 6th Ave,Manhattan,10001,Ari/Lorena,TRUE,FALSE,FALSE
+1706300461404,Curaleaf - Hudson Valley,"8 N Plank Rd, Newburgh, NY 12550, USA",MM1002D,NY green,Orange,"$2,553.65","$1,500,000",t1,8 N Plank Rd,Newburgh,12550,Josh,TRUE,FALSE,FALSE
+1714416273455,Curaleaf - Plattsburgh,"345 Cornelia St, Plattsburgh, NY 12901, USA",MM1003D,NY green,Clinton,$239.23,"$500,000",t2,345 Cornelia St,Plattsburgh,12901,Josh,TRUE,FALSE,FALSE
+1715958400486,Curaleaf - Queens,"107-18 70th Rd, Queens, NY 11375, USA",MM1004D,NY red,Queens,$678.56,"$750,000",t1,107-18 70th Rd,Queens,11375,Ari/Lorena,TRUE,FALSE,FALSE
+1723229337160,Cussin's Cannabis,"2075 Central Ave, Schenectady, NY 12304, USA",OCM-CAURD-24-000164,NY green,Schenectady,,"$250,000",t3,2075 Central Ave,Schenectady,12304,Jordan,TRUE,FALSE,FALSE
+1735922327339,Dagmar Cannabis - West Broadway,"412 W Broadway, New York, NY 10012, USA",OCM-CAURD-23-000029,NY red,New York,,"$500,000",t2,412 W Broadway,Manhattan,10012,Ari/Lorena,TRUE,FALSE,FALSE
+1720205914750,Dank 716,"501 Main St, Buffalo, NY 14203, USA",OCM-CAURD-23-000017,NY green,Erie,$0.00,"$500,000",t2,501 Main St,Buffalo,14203,Jordan,TRUE,FALSE,FALSE
+1712345573813,Dazed - Union Square West,"33 Union Square W, New York, NY 10003, USA",OCM-CAURD-23-000008,NY red,New York,$414.01,"$1,000,000",t1,33 Union Square W,Manhattan,10003,Ari/Lorena,TRUE,FALSE,FALSE
+1724440572269,Devils Lettuce - Buffalo,"650 Orchard Park Rd, West Seneca, NY 14224, USA",OCM-CAURD-24-000090,NY green,Erie,,"$750,000",t1,650 Orchard Park Rd,Buffalo,14224,Jordan,TRUE,FALSE,FALSE
+1729280369658,Diamond Tree - Syracuse,"2700 Erie Blvd E, Syracuse, NY 13224, USA",OCM-CAURD-24-000159,NY green,Onondaga,$146.88,"$250,000",t3,2700 Erie Blvd E,Syracuse,13224,Jordan,TRUE,FALSE,FALSE
+1713558408153,Domes Dispensary,"268 Forest Hill Dr, Kingston, NY 12401, USA",OCM-RETL-24-000066,NY green,Ulster,,"$500,000",t2,268 Forest Hill Dr,Kingston,12401,Josh,TRUE,FALSE,FALSE
+1734972229074,Dosha Farms,"76 Main St, Oneonta, NY 13820, USA",OCM-CAURD-23-000019,NY green,Ostego,,"$500,000",t2,76 Main St,Oneonta,13820,Josh,TRUE,FALSE,FALSE
+1704485375531,Dream Daze - Depew,"5100 Transit Rd, Depew, NY 14043, USA",OCM-RETL-24-000156,NY green,Erie,,"$500,000",t2,5100 Transit Rd,Depew,14043,Jordan,TRUE,FALSE,FALSE
+1708103288912,Dryden Dispensary,"2207 Dryden Rd, Dryden, NY 13053, USA",OCM-RETL-24-000009,NY green,Tompkins,,"$500,000",t2,2207 Dryden Rd,Dryden,13053,Lourdes,TRUE,FALSE,FALSE
+1728330185748,Dynasty Commodities Inc,"2119 Frederick Douglass Blvd, Manhattan, NY 10026, USA",Unspecified,NY red,New York,,"$250,000",t3,2119 Frederick Douglass Blvd,Manhattan,10026,Ari/Lorena,TRUE,FALSE,FALSE
+1729280364508,East Leaf Dispensary,"2442 Clinton St, Buffalo, NY 14224, USA",OCM-CAURD-24-000093,NY green,Erie,,"$250,000",t3,2442 Clinton St,Buffalo,14224,Jordan,TRUE,FALSE,FALSE
+,Electric City Cannabis,"1354 Lower Broadway, Schenectady, NY 12306, USA",OCM-RETL-24-000130,NY green,Schenectady,,"$500,000",t2,1354 Lower Broadway,Schenectady,12306,Jordan,TRUE,FALSE,FALSE
+1735328450892,Elevate ADK - Saranac Lake,"622 Lake Flower Ave, Saranac Lake, NY 12983, USA",OCM-CAURD-23-000022,NY green,essex,,"$500,000",t2,622 Lake Flower Ave Suite 7,Saranac Lake,12983,Josh,TRUE,FALSE,FALSE
+1709914302735,Elevate Cannabis Dispensary,"127 S Terrace Ave, Mt Vernon, NY 10550, USA",OCM-CAURD-23-000030,NY red,Westchester,"$3,036.26","$750,000",t1,127 S Terrace Ave Unit 2,Mount Vernon,10550,Ari/Lorena,TRUE,FALSE,FALSE
+1731958613042,Elevation HQ NYC,"701 8th Avenue, Manhattan, NY 10036, USA",OCM-CAURD-24-000205,NY red,New York,,"$1,250,000",t1,701 8th Avenue,Manhattan,10036,Ari/Lorena,TRUE,FALSE,FALSE
+1734452230824,Etain - Kingston,"445 Onteora Trail, Kingston, NY 12401, USA",MM0403D,NY green,Ulster,"$1,354.46","$250,000",t3,445 Onteora Trail,Kingston,12401,Josh,TRUE,FALSE,FALSE
+1733510397032,Etain - Manhattan,"242 E 58th St, New York, NY 10022, USA",MM0407D,NY red,New York,"$1,589.63","$500,000",t2,242 E 58th St,Manhattan,10022,Ari/Lorena,TRUE,FALSE,FALSE
+1728660062022,Etain - Syracuse,"2140 Erie Blvd E, Syracuse, NY 13224, USA",MM0405D,NY green,Onondaga,,"$250,000",t3,2140 Erie Blvd E,Syracuse,13224,Jordan,TRUE,FALSE,FALSE
+1731718021221,Etain - White Plains,"55 Main St, Yonkers, NY 10701, USA",MM0408D,NY red,Westchester,"$2,869.05","$250,000",t3,55 Main St,White Plains,10601,Ari/Lorena,TRUE,FALSE,FALSE
+,Ether Cannabis - Buffalo,"5100 Genesee St, Buffalo, NY 14225, USA",OCM-CAURD-24-000098,NY green,Erie,"$2,215.65","$500,000",t2,5100 Genesee St Unit 4,Buffalo,14225,Jordan,TRUE,FALSE,FALSE
+1696619939499,Evergreen Retail - Brockport,"51 N Main St, Brockport, NY 14420, USA",OCM-CAURD-24-000113,NY green,Monroe,,"$500,000",t2,51 N Main St,Brockport,14420,Jordan,TRUE,FALSE,FALSE
+1673631023265,Evexia Cannabis,"217 Guideboard Rd, Halfmoon, NY 12065, USA",OCM-CAURD-24-000141,NY green,Saratoga,,"$250,000",t3,217 Guideboard Rd,Halfmoon,12065,Jordan,TRUE,FALSE,FALSE
+,Exit 31 Exotic,"255 Genesee St, Utica, NY 13502, USA",OCM-CAURD-24-000076,NY green,Oneida,"$3,649.19","$750,000",t1,255 Genesee St,Utica,13501,Jordan,TRUE,FALSE,FALSE
+1738343092539,Farmers Choice - Fishkill,"18 Westage Dr Suite 7, Fishkill, NY 12524, USA",OCM-RETL-24-000045,NY green,Dutchess,,"$750,000",t1,18 Westage Dr Suite 7,Fishkill,12524,Josh,TRUE,FALSE,FALSE
+1710524538810,FingerLakes Cannabis Company CGS,"5 Railroad St, Victor, NY 14564, USA",OCM-CAURD-24-000199,NY green,Monroe,,"$500,000",t2,5 Railroad St,Victor,14564,Jordan,TRUE,FALSE,FALSE
+1674856045580,Fireleaf - Brooklyn,"2102 Ralph Ave, Brooklyn, NY 11234, USA",OCM-CAURD-24-000196,NY red,Kings,,"$250,000",t3,2102 Ralph Ave,Brooklyn,11234,Ari/Lorena,TRUE,FALSE,FALSE
+,FISHKILL CANNABIS,"814 Route 52, Fishkill, NY 12524, USA",OCM-CAURD-24-000109,NY green,Dutchess,"$4,548.71","$500,000",t2,814 NY-52,Fishkill,12524,Lourdes,TRUE,FALSE,FALSE
+1710523667085,Flōr De Fred - Ozone Park,"96-05 Liberty Ave, Jamaica, NY 11417, USA",OCM-CAURD-24-000154,NY red,Queens,,"$500,000",t2,96-05 Liberty Ave,Ozone Park,11417,Ari/Lorena,TRUE,FALSE,FALSE
+1709304062869,Flower City - Main,"8053 Pittsford Victor Rd, Victor, NY 14564, USA",OCM-CAURD-24-000218,NY green,Monroe,,"$500,000",t2,8053 Pittsford Victor Rd,Victor,14564,Jordan,TRUE,FALSE,FALSE
+1674489229151,Flower Power Dispensers - New York,"22 W 66th St, New York, NY 10023, USA",OCM-CAURD-24-000101,NY red,New York,,"$500,000",t2,22 W 66th St,Manhattan,10023,Ari/Lorena,TRUE,FALSE,FALSE
+1731718024327,Flynnstoned Cannabis Company,"219 Walton St, Syracuse, NY 13202, USA",OCM-CAURD-23-000010,NY green,Onondaga,,"$250,000",t3,219 Walton St,Syracuse,13202,Jordan,TRUE,FALSE,FALSE
+1683409296173,Frass Box Cannabis,"3633 Kingsbridge Ave, Bronx, NY 10463, USA",OCM-CAURD-24-000165,NY red,Bronx,$726.72,"$500,000",t2,3633 Kingsbridge Ave,Bronx,10463,Ari/Lorena,TRUE,FALSE,FALSE
+1742569904108,Freshly Baked NYC,"2375 Arthur Ave, Bronx, NY 10458, USA","OCM-CAURD-24-000137,OCM-AUCR-TD-P24063",NY red,Bronx,"$1,584.31","$500,000",t2,2375 Arthur Ave,Bronx,10458,Ari/Lorena,TRUE,FALSE,FALSE
+1692405791161,Gaea’s Garden,"134-24 Northern Blvd, Flushing, NY 11354, USA",OCM-MICR-24-000030,NY red,Queens,,"$250,000",t3,134-24 Northern Blvd,Queens,11354,Ari/Lorena,TRUE,FALSE,FALSE
+1738346589310,Gas Monkeyz - Salamanca,"77 Central Ave, Salamanca, NY 14779, USA",Unspecified,NY green,Cattaraugus,,"$250,000",t3,77 Central Ave,Salamanca,14779,Josh,TRUE,FALSE,FALSE
+1714757321428,Goldleaf Cannabis - Hudson,"235 Fairview Ave, Hudson, NY 12534, USA","OCM-HMPR-25-10605,OCM-RETL-24-000044",NY green,Columbia,,0,t4,235 Fairview Ave,Hudson,12534,Jordan,TRUE,FALSE,FALSE
+1745022065509,Good Grades - Jamaica,"162-03 Jamaica Ave, Queens, NY 11432, USA",OCM-CAURD-23-000007,NY yellow,Queens,,"$250,000",t3,162-03 Jamaica Ave,Jamaica,11432,Ari/Lorena,TRUE,FALSE,FALSE
+1720809083126,Good Life Collective - Rochester,"155 Monroe Ave, Rochester, NY 14607, USA",OCM-CAURD-24-000055,NY green,Monroe,"$1,395.34","$1,000,000",t1,155 Monroe Ave,Rochester,14607,Jordan,TRUE,FALSE,FALSE
+1708113592392,Gotham - 3rd St,"3 E 3rd St, New York, NY 10003, USA",OCM-CAURD-23-000009,NY red,New York,,"$500,000",t2,3 E 3rd St,Manhattan,10003,Ari/Lorena,TRUE,FALSE,FALSE
+1727114568910,Gotham - Chelsea,"146 10th Ave, New York, NY 10011, USA","194749107,CGR25237",NY red,New York,,"$250,000",t3,146 10th Ave,Manhattan,10011,Ari/Lorena,TRUE,FALSE,FALSE
+1738950509225,Gotham - Hudson Valley,"260 Warren St, Hudson, NY 12534, USA",OCM-CAURD-24-000197,NY green,Columbia,,"$250,000",t3,260 Warren St,Hudson,12534,Jordan,TRUE,FALSE,FALSE
+1705692746585,Gotham - Williamsburg,"296 Kent Ave, Brooklyn, NY 11249, USA",OCM-CAURD-2022-000715,NY red,Kings,,"$500,000",t2,The Refinery at Domino,Brooklyn,11249,Ari/Lorena,TRUE,FALSE,FALSE
+1716738560986,Gotham Buds - Harlem,"248 W 125th St, New York, NY 10027, USA",OCM-CAURD-23-000023,NY red,New York,"$7,210.01","$750,000",t1,248 W 125th St,Manhattan,10027,Ari/Lorena,TRUE,FALSE,FALSE
+1697469850702,Grass and Goodness,"1650 Crane St, Schenectady, NY 12303, USA",OCM-RETL-24-000138,NY green,Schenectady,,"$250,000",t3,1650 Crane St,Schenectady,12303,Jordan,TRUE,FALSE,FALSE
+,Green Apple Distributors - Brooklyn,"572 Manhattan Ave, Brooklyn, NY 11222, USA",OCM-RETL-24-000266,NY red,Kings,,0,t4,572 Manhattan Ave,Brooklyn,11222,Ari/Lorena,TRUE,FALSE,FALSE
+1680400700984,Green Flower Wellness - New Floral Park,"270-01 Hillside Ave, Queens, NY 11040, USA",OCM-RETL-24-000233,NY red,Queens,"$1,672.17","$250,000",t3,270-01 Hillside Ave.,Queens,11040,Ari/Lorena,TRUE,FALSE,FALSE
+1717173938232,Green Flower Wellness - Oakland Gardens,"214-24 73rd Ave, Oakland Gardens, NY 11364, USA",OCM-RETL-24-000064,NY red,Queens,"$1,011.61","$500,000",t2,214-24 73rd Ave,Queens,11364,Ari/Lorena,TRUE,FALSE,FALSE
+1715964170055,Green Genius NYC,"214 3rd Ave, New York, NY 10003, USA",OCM-CAURD-24-000166,NY red,New York,"$3,001.32","$500,000",t2,214 3rd Ave,Manhattan,10003,Ari/Lorena,TRUE,FALSE,FALSE
+1715371782434,Green Philosophy 716 - West Seneca,"101 Slade Ave, West Seneca, NY 14224, USA",OCM-RETL-24-000116,NY green,Erie,,"$250,000",t3,101 Slade Ave,Buffalo,14224,Jordan,TRUE,FALSE,FALSE
+1721425426092,Greenery Spot,"246 Main St, Johnson City, NY 13790, USA",OCM-CAURD-23-000013,NY green,Broome,"$1,213.92","$750,000",t1,246 Main St,Johnson City,13790,Jordan,TRUE,FALSE,FALSE
+1699037534987,Grounded - Poughkeepsie,"3665 Albany Post Road, Poughkeepsie, NY 12601, USA",OCM-CAURD-24-000097,NY green,Dutchess,,"$500,000",t2,3665 Albany Post Road,Poughkeepsie,12601,Josh,TRUE,FALSE,FALSE
+1743781926628,Grow Together - Brooklyn,"2370 Coney Island Ave, Brooklyn, NY 11223, USA",OCM-CAURD-23-000034,NY red,Kings,"$1,632.60","$500,000",t2,2370 Coney Island Ave,Brooklyn,11223,Ari/Lorena,TRUE,FALSE,FALSE
+1730216659160,Guardian Wellness,"2500 Arthur Ave, Bronx, NY 10458, USA",Unspecified,NY red,Bronx,,0,t4,2500 Arthur Ave,Bronx,10458,Ari/Lorena,TRUE,FALSE,FALSE
+1640599530665,Happy Days Dispensary,"105 Route 109, Farmingdale, NY 11735, USA",OCM-CAURD-23-000035,NY red,Nassau,"$12,913.82","$3,000,000+",t1,105 NY-109,Farmingdale,11735,Ari/Lorena,TRUE,FALSE,FALSE
+1733167235104,Happy Leaf Cannabis - Buffalo,"2760 Union Rd, Cheektowaga, NY 14227, USA",OCM-RETL-24-000206,NY green,Erie,$160.74,"$250,000",t3,2760 Union Rd,Buffalo,14227,Jordan,TRUE,FALSE,FALSE
+1704488745032,Happy Munkey - Dyckman,"151 Dyckman St, New York, NY 10034, USA",OCM-CAURD-24-000176,NY red,New York,,"$500,000",t2,151 Dyckman St,Manhattan,10034,Ari/Lorena,TRUE,FALSE,FALSE
+,Happy Munkey - Fulton Street,"453 Fulton St, Brooklyn, NY 11201, USA",OCM-CAURD-24-000079,NY red,Kings,,"$500,000",t2,453 Fulton St,Brooklyn,11201,Ari/Lorena,TRUE,FALSE,FALSE
+1742238376191,Happy Times Cannabis Co,"3807 Harlem Rd, Buffalo, NY 14215, USA",OCM-RETL-24-000082,NY green,Erie,,"$250,000",t3,3807 Harlem Rd,Buffalo,14215,Jordan,TRUE,FALSE,FALSE
+1745022073740,Happy Times Cannabis Co - Niagara Falls,"7560 Niagara Falls BLVD, Niagara Falls, NY 14304, USA",OCM-RETL-24-000245,NY green,Niagara,,0,t4,7560 Niagara Falls BLVD,Niagara Falls,14304,Jordan,TRUE,FALSE,FALSE
+1726251196234,Hazy Daze,"332 Broad St, Waverly, NY 13743, USA",OCM-RETL-24-000160,NY green,Tioga,,"$250,000",t3,332 Broad St,Candor,13743,Josh,TRUE,FALSE,FALSE
+1720205912700,Hells Kitchen Cannabis Company,"356 W 40th St, New York, NY 10018, USA","OCM-MICR-24-000069,OCM-PROC-24-000229",NY red,New York,,0,t4,356 W 40th St,Manhattan,10018,Ari/Lorena,TRUE,FALSE,FALSE
+1728330178891,Herb-Z,"109 E Taft Rd, North Syracuse, NY 13212, USA",OCM-CAURD-24-000172,NY green,Onondaga,,"$1,000,000",t1,109 E Taft Rd,North Syracuse,13212,Jordan,TRUE,FALSE,FALSE
+,Herbal - Woodstock,"17 Tinker St, Woodstock, NY 12498, USA"," OCM-HMPR-25-10122,OCM-RETL-24-000112",NY green,Ulster,,0,t4,17 Tinker St,Woodstock,12498,Josh,TRUE,FALSE,FALSE
+1659120872253,Herbal IQ - Depew,"6055 Transit Rd, Depew, NY 14043, USA",OCM-CAURD-23-000018,NY green,Erie,"$10,906.84","$750,000",t1,6055 Transit Rd,Depew,14043,Jordan,TRUE,FALSE,FALSE
+1711729232191,Herbology,"304 Ellery St, Brooklyn, NY 11206, USA",OCM-CAURD-24-000177,NY red,Kings,,"$250,000",t3,304 Ellery St,Brooklyn,11206,Ari/Lorena,TRUE,FALSE,FALSE
+1729280360408,Herbwell - Bronx,"372 E Fordham Rd, Bronx, NY 10458, USA",OCM-RETL-24-000154,NY red,Bronx,,"$500,000",t2,372 E Fordham Rd,Bronx,10458,Ari/Lorena,TRUE,FALSE,FALSE
+1726251202349,Herbwell Weed Dispensary Manhattan - Madison Ave,"519 Madison Ave, New York, NY 10022, USA",OCM-RETL-24-000260,NY red,New York,,0,t4,519 Madison Ave,Manhattan,10022,Ari/Lorena,TRUE,FALSE,FALSE
+1677868309296,Hibernica - Pelham Bay,"3220 Westchester Ave, Bronx, NY 10461, USA",OCM-CAURD-24-000131,NY red,Bronx,,"$500,000",t2,3220 Westchester Ave,Bronx,10461,Ari/Lorena,TRUE,FALSE,FALSE
+1681763750113,High Peaks Canna - Rec,"137 Maple Ave, Saratoga Springs, NY 12866, USA",OCM-CAURD-24-000189,NY green,Saratoga,,"$500,000",t2,137 Maple Ave,Saratoga Springs,12866,Jordan,TRUE,FALSE,FALSE
+,High Points Dispensary,"811 Canandaigua Rd, Geneva, NY 14456, USA",OCM-CAURD-24-000086,NY green,Ontario,,"$500,000",t2,811 Canandaigua Rd,Geneva,14456,Jordan,TRUE,FALSE,FALSE
+1708709268521,High Society Dispensary - Hudson Falls,"345 Main St, Hudson Falls, NY 12839, USA",OCM-CAURD-24-000171,NY green,Washington,$825.70,"$500,000",t2,345 Main St,Hudson Falls,12839,Jordan,TRUE,FALSE,FALSE
+1736542197066,High Stone - Delivery only,"1938 Clove Rd, Staten Island, NY 10304, USA",OCM-CAURD-24-000185,NY red,Richmond,,0,t4,1938 Clove Rd,Staten Island,10314,Ari/Lorena,TRUE,FALSE,FALSE
+1656100638877,High Tide,"1829 Como Park Blvd, Lancaster, NY 14086, USA",OCM-RETL-24-000122,NY green,Erie,,"$250,000",t3,1829 Como Park Blvd,Lancaster,14086,Jordan,TRUE,FALSE,FALSE
+1688156541274,Higher Tolerance Cannabis Dispensary,"121 S Pearl St, Albany, NY 12207, USA",OCM-CAURD-24-000054,NY green,Albany,$654.74,"$250,000",t3,121 S Pearl St,Albany,12207,Jordan,TRUE,FALSE,FALSE
+,Highlife Health,"17 Huguenot St, New Rochelle, NY 10801, USA",OCM-RETL-24-000076,NY red,Westchester,,"$500,000",t2,17-19 Huguenot St,New Rochelle,10801,Ari/Lorena,TRUE,FALSE,FALSE
+1738950510452,Highstone NYC,"1938 Clove Rd, Staten Island, NY 10304, USA",OCM-CAURD-24-000185,NY red,Richmond,,"$500,000",t2,1938 Clove Rd,Staten Island,10304,Ari/Lorena,TRUE,FALSE,FALSE
+1717874951443,Hii Cannabis Dispensary,"152 Bedford Ave, Brooklyn, NY 11249, USA",OCM-CAURD-24-000102,NY red,Kings,"$2,698.66","$750,000",t1,152 Bedford Ave,Brooklyn,11249,Ari/Lorena,TRUE,FALSE,FALSE
+1731358351992,Hold Up Roll Up,"196 Washington Ave, Albany, NY 12210, USA","CAURDP - 2023 - 000140,OCM-CAURD-24-000135",NY green,Albany,"$1,374.81","$250,000",t3,196 Washington Ave,Albany,12210,Jordan,TRUE,FALSE,FALSE
+,Honey Kenmore - Nickel City Green LLC,"2981 Delaware Ave, Kenmore, NY 14217, USA",OCM-CAURD-24-000066,NY green,Erie,"$5,665.27","$750,000",t1,2981 Delaware Ave,Buffalo,14217,Jordan,TRUE,FALSE,FALSE
+1726265838864,House of Strains - Flushing,"16105 29th Ave, Flushing, NY 11358, USA",OCM-CAURD-24-000123,NY red,Queens,,"$250,000",t3,16105 29th Ave,Queens,11358,Ari/Lorena,TRUE,FALSE,FALSE
+,Housing Works - Broadway,"750 Broadway, New York, NY 10003, USA",OCM-CAURD-22-000001,NY red,New York,,"$1,250,000",t1,750 Broadway,Manhattan,10003,Ari/Lorena,TRUE,FALSE,FALSE
+1697466924987,Housing Works Cannabis Co - NOMAD,"846 6th Ave, New York, NY 10001, USA",OCM-CAURD-24-000225,NY red,New York,,"$500,000",t2,846 6th Ave,Manhattan,10001,Ari/Lorena,TRUE,FALSE,FALSE
+1703870897748,Hush - Bronx,"2460 Williamsbridge Rd, Bronx, NY 10469, USA",OCM-CAURD-23-000026,NY red,Bronx,"$1,065.16","$750,000",t1,2460 Williamsbridge Rd,Bronx,10469,Ari/Lorena,TRUE,FALSE,FALSE
+,Indoor Treez,"584 8th Ave, New York, NY 10018, USA",OCM-CAURD-24-000120,NY red,New York,"$9,773.66","$1,250,000",t1,584 8th Ave,Manhattan,10018,Ari/Lorena,TRUE,FALSE,FALSE
+1721412224379,Joe's Buds,"4658 Onondaga Blvd, Syracuse, NY 13219, USA",OCM-CAURD-24-000134,NY green,Onondaga,,"$500,000",t2,4658 Onondaga Blvd,Syracuse,13219,Jordan,TRUE,FALSE,FALSE
+1694199654634,Joint Jungle,"187 Mill St, Liberty, NY 12754, USA",OCM-RETL-24-000148,NY green,Sullivan,,0,t4,187 Mill St Suite 6,LIBERTY,12754,Josh,TRUE,FALSE,FALSE
+1715964169424,Jungle Kingdom Flower Company,"515 Nostrand Ave, Brooklyn, NY 11216, USA",OCM-RETL-24-000088,NY red,Kings,,"$250,000",t3,515 Nostrand Ave,Brooklyn,11216,Ari/Lorena,TRUE,FALSE,FALSE
+1712358004162,Just A Little Higher - Briarwood,"138-72 Queens Blvd, Jamaica, NY 11435, USA","MM0602D,OCM-CAURD-25-000233",NY red,Queens,,"$250,000",t3,138-72 Queens Blvd,Jamaica,11435,Ari/Lorena,TRUE,FALSE,FALSE
+1728330177876,Just A Little Higher - Murray Hill,"698 2nd Ave, New York, NY 10016, USA",OCM-CAURD-24-000156,NY red,New York,,"$250,000",t3,698 2nd Ave,Manhattan,10016,Ari/Lorena,TRUE,FALSE,FALSE
+1722031536393,Just A Little Higher - West Side,"157 W 72nd St, New York, NY 10023, USA",OCM-CAURD-24-000136,NY red,New York,,"$750,000",t1,157 W 72nd St,Manhattan,10023,Ari/Lorena,TRUE,FALSE,FALSE
+1712357999030,Just Breathe - Binghamton,"75 Court St, Binghamton, NY 13901, USA",OCM-CAURD-23-000004,NY green,Broome,$390.59,"$500,000",t2,75 Court St,Binghamton,13901,Jordan,TRUE,FALSE,FALSE
+1738952541160,Just Breathe - Syracuse,"185 W Seneca St, Manlius, NY 13104, USA",OCM-RETL-24-000065,NY green,Onondaga,,"$250,000",t3,185 W Seneca St,Manlius,13104,Jordan,TRUE,FALSE,FALSE
+1706282724000,Just Breathe CGS Finger Lakes,"2988 Auburn Rd, Tyre, NY 13148, USA","OCM-PROC-24-000128,OCM-DIST-25-000146,OCM-CAURD-24-000110",NY green,Seneca,$992.83,"$250,000",t3,2988 Auburn Rd,Tyre,13148,Jordan,TRUE,FALSE,FALSE
+1741972227333,Kaya Bliss Dispensary,"8412 3rd Ave, Brooklyn, NY 11209, USA",OCM-CAURD-24-000211,NY red,Richmond,$65.25,"$250,000",t3,8412 3rd Ave,Staten Island,10306,Ari/Lorena,TRUE,FALSE,FALSE
+1742572630612,Kings House Of Fire - Peekskill,"3006 E Main St, Cortlandt, NY 10567, USA",OCM-CAURD-24-000104,NY green,Westchester,,"$1,000,000",t1,3006 E Main St,Peekskill,10567,Josh,TRUE,FALSE,FALSE
+1730497900475,KushKlub NYC,"186 Orchard St, New York, NY 10002, USA",OCM-RETL-24-000061,NY red,New York,$34.93,"$250,000",t3,186 Orchard St,Manhattan,10002,Ari/Lorena,TRUE,FALSE,FALSE
+1692991755450,KushMart - Brooklyn,"1413 Kings Hwy, Brooklyn, NY 11229, USA",OCM-CAURD-24-000219,NY red,Kings,,"$250,000",t3,1413 Kings Hwy,Brooklyn,11229,Ari/Lorena,TRUE,FALSE,FALSE
+1728401196282,Late Bloomers - Queens,"57-01 Myrtle Ave, Flushing, NY 11385, USA",OCM-CAURD-24-000074,NY red,Queens,"$2,052.79","$250,000",t3,57-01 Myrtle Ave,Queens,11385,Ari/Lorena,TRUE,FALSE,FALSE
+,Leaf Plug - Amherst,"3341 Sheridan Dr, Buffalo, NY 14226, USA",OCM-RETL-24-000010,NY green,Erie,,"$250,000",t3,3341 Sheridan Dr,Buffalo,14226,Jordan,TRUE,FALSE,FALSE
+1698081988280,Leafy Peaks,"27 Saratoga Ave, Waterford, NY 12188, USA",OCM-CAURD-24-000099,NY green,Saratoga,"$5,359.05","$500,000",t2,27 Saratoga Ave,Waterford,12188,Jordan,TRUE,FALSE,FALSE
+1706296206072,Leafy Wonders,"956 S 1st St, Fulton, NY 13069, USA",OCM-CAURD-24-000139,NY green,Kings,,"$250,000",t3,956 S 1st St,Fulton,13069,Jordan,TRUE,FALSE,FALSE
+1703276021647,Legacy Dispensary - Colonie,"1839 Central Ave, Colonie, NY 12205, USA",OCM-CAURD-24-000058,NY green,Albany,,"$500,000",t2,1839 Central Ave,Colonie,12205,Jordan,TRUE,FALSE,FALSE
+1683918194529,Lenox Hill Cannabis Co - New York,"334 E 73rd St, New York, NY 10021, USA",OCM-CAURD-23-000038,NY red,New York,"$1,465.46","$1,000,000",t1,334 E 73rd St,Manhattan,10021,Ari/Lorena,TRUE,FALSE,FALSE
+1743184220842,Liberty Buds,"1115 1st Ave., New York, NY 10065, USA",OCM-CAURD-24-000075,NY red,New York,"$5,794.52","$750,000",t1,1115 1st Ave.,Manhattan,10065,Ari/Lorena,TRUE,FALSE,FALSE
+1677866098354,Lifted Cannabis Dispensary,"320 N Main St, Jamestown, NY 14701, USA",OCM-RETL-24-000140,NY green,Chautauqua,,0,t4,320 N Main St,Jamestown,14701,Josh,TRUE,FALSE,FALSE
+,Little Beach Harvest,"56 Montauk Highway, Southampton, NY 11968, USA",OCM-CAURD-24-000215,NY red,Suffolk,,"$250,000",t3,56 Montauk Hwy,Southampton,11968,Ari/Lorena,TRUE,FALSE,FALSE
+1712358010277,Long Island Cannabis Club,"94 E Industry Ct, Deer Park, NY 11729, USA",OCM-CAURD-23-000012,NY red,Suffolk,,"$750,000",t1,94 E Industry Ct,Deer Park,11729,Ari/Lorena,TRUE,FALSE,FALSE
+1681779616288,LotusWorks Wellness - Beacon,"261 Main St, Beacon, NY 12508, USA",OCM-MICR-24-000017,NY green,Dutchess,,"$250,000",t3,261 Main St,Beacon,12508,Josh,TRUE,FALSE,FALSE
+,Loudpack Exotics,"6606 Kinne Rd, Syracuse, NY 13214, USA",OCM-CAURD-24-000117,NY green,Onondaga,"$2,358.05","$500,000",t2,6606 Kinne Rd,Syracuse,13214,Jordan,TRUE,FALSE,FALSE
+1672163516820,Lucky Green Ladies - Kingston,"365 S Wall St, Kingston, NY 12401, USA",OCM-CAURD-25-000235,NY green,Ulster,"$3,015.11","$250,000",t3,365 S Wall St,Kingston,12401,Josh,TRUE,FALSE,FALSE
+1722611202067,Mammoth Cannabis,"212 Ohio St, Buffalo, NY 14204, USA",OCM-RETL-24-000118,NY green,Erie,,"$250,000",t3,212 Ohio St Suite 2,Buffalo,14204,Jordan,TRUE,FALSE,FALSE
+1725374304002,Mary Jane's: A Legacy to Legal Dispensary,"2179 Sheridan Dr, Tonawanda, NY 14223, USA",OCM-CAURD-24-000115,NY green,Erie,,"$250,000",t3,2179 Sheridan Dr,Buffalo,14223,Jordan,TRUE,FALSE,FALSE
+1744389296621,Matawana,"533 5th Ave, Brooklyn, NY 11215, USA",OCM-CAURD-24-000071,NY red,Kings,,"$750,000",t1,533 5th Ave,Brooklyn,11215,Ari/Lorena,TRUE,FALSE,FALSE
+1714405276949,Midnight Moon - New York,"1536 Amsterdam Ave Store 2, New York, NY 10031, USA",OCM-RETL-24-000048,NY red,New York,"$2,869.77","$250,000",t3,1536 Amsterdam Ave Store 2,Manhattan,10031,Ari/Lorena,TRUE,FALSE,FALSE
+1676665881168,Mighty Lucky,"259 Bowery, New York, NY 10002, USA",OCM-CAURD-24-000065,NY red,New York,"$2,670.70","$500,000",t2,259 Bowery,Manhattan,10002,Ari/Lorena,TRUE,FALSE,FALSE
+1731867287676,Misfits Dispensary,"420 Jefferson Rd, Rochester, NY 14623, USA",OCM-RETL-24-000079,NY green,Monroe,$252.25,"$250,000",t3,420 Jefferson Rd Suite 2,Rochester,14623,Jordan,TRUE,FALSE,FALSE
+1714759016934,Misha's Flower Shop,"299 Knickerbocker Ave, Brooklyn, NY 11237, USA",OCM-CAURD-24-000094,NY red,Kings,$647.06,"$750,000",t1,299 Knickerbocker Ave,Brooklyn,11237,Ari/Lorena,TRUE,FALSE,FALSE
+1715973019893,Mister Greens,"81 Wolf Rd, Albany, NY 12205, USA",OCM-CAURD-24-000192,NY green,Albany,,"$250,000",t3,81 Wolf Rd,Albany,12205,Jordan,TRUE,FALSE,FALSE
+1730132647498,MJ Dispensary 585,"900 Jefferson Rd, Rochester, NY 14623, USA",OCM-CAURD-23-000024,NY green,Monroe,"$1,515.58","$1,250,000",t1,900 Jefferson Rd ste 902,Rochester,14623,Jordan,TRUE,FALSE,FALSE
+1702924828021,Mr Good Vybz - Albany,"25 N Pearl St, Albany, NY 12207, USA",OCM-CAURD-24-000107,NY green,Albany,,"$250,000",t3,25 N Pearl St,Albany,12207,Jordan,TRUE,FALSE,FALSE
+1712338708239,Munchies Dispensary NY,"8701 Rockaway Beach Blvd, Far Rockaway, NY 11693, USA",OCM-CAURD-24-000203,NY red,Queens,,"$500,000",t2,8701 Rockaway Beach Blvd,Rockaway Beach,11693,Ari/Lorena,TRUE,FALSE,FALSE
+1726251200302,My Bud 420,"1798 E Tremont Ave, Bronx, NY 10460, USA",OCM-RETL-24-000008,NY red,Bronx,,"$250,000",t3,1798 E Tremont Ave,Bronx,10460,Ari/Lorena,TRUE,FALSE,FALSE
+1713559176511,Native Haze,"1503 Canandaigua Rd, Macedon, NY 14502, USA",OCM-CAURD-24-000128,NY green,Wayne,,"$500,000",t2,1503 Canandaigua Rd Suite 420,Macedon,14502,Jordan,TRUE,FALSE,FALSE
+1701457379855,New Amsterdam,"245 W 14th St, New York, NY 10011, USA",OCM-RETL-25-000283,NY red,New York,,0,t4,245 W 14th St,Manhattan,10011,Ari/Lorena,TRUE,FALSE,FALSE
+1719266447706,New Metro Recreational Cannabis Dispensary,"221-50 Horace Harding Expressway, Bayside, NY 11364, USA",OCM-CAURD-24-000061,NY red,Queens,$0.00,"$750,000",t1,221-50 Horace Harding Expy,Queens,11364,Ari/Lorena,TRUE,FALSE,FALSE
+1745022068586,Nice Yield - Long Island City,"10-50 Jackson Ave, Long Island City, NY 11101, USA",OCM-CAURD-25-000249,NY red,Queens,,"$250,000",t3,10-50 Jackson Ave,Queens,11101,Ari/Lorena,TRUE,FALSE,FALSE
+1732568253314,Nicklz,"797 8th Ave, New York, NY 10019, USA",OCM-CAURD-24-000151,NY red,New York,"$3,032.79","$500,000",t2,797 8th Ave,Manhattan,10019,Ari/Lorena,TRUE,FALSE,FALSE
+1719603793482,Northern Lights Dispensary,"51 Main St, Canton, NY 13617, USA",OCM-RETL-24-000054,NY green,St. Lawrence,,"$250,000",t3,51 Main St,Canton,13617,Josh,TRUE,FALSE,FALSE
+,Northern Lights NY,"100 Broadway, Menands, NY 12204, USA",OCM-CAURD-24-000059,NY green,Albany,"$3,115.77","$500,000",t2,100 Broadway #8,Menands,12204,Jordan,TRUE,FALSE,FALSE
+1672163514151,NUG Yonkers,"2371 Central Park Ave, Yonkers, NY 10710, USA",OCM-CAURD-24-000163,NY red,Westchester,$0.00,"$250,000",t3,2371 Central Park Ave,Yonkers,10710,Ari/Lorena,TRUE,FALSE,FALSE
+1712589564792,NugHub NY,"1350 Forest Ave, Staten Island, NY 10302, USA",OCM-CAURD-24-000183,NY red,Richmond,,0,t4,1350 Forest Ave,Staten Island,10314,Ari/Lorena,TRUE,FALSE,FALSE
+1733170725577,Nuna Harvest,"696 Locust St, Fleetwood, NY 10552, USA",OCM-CAURD-24-000140,NY yellow,Westchester,,"$250,000",t3,696 Locust St,Mount Vernon,10552,Ari/Lorena,TRUE,FALSE,FALSE
+1725649494564,NY Canna Co - 5th Ave,"743 9th Ave, New York, NY 10019, USA",OCM-RETL-24-000147,NY red,New York,,0,t4,743 9th Ave,Manhattan,10016,Ari/Lorena,TRUE,FALSE,FALSE
+1672163517846,NY Cannabis Co,"743 9th Ave, New York, NY 10019, USA",OCM-RETL-24-000178,NY red,New York,,"$500,000",t2,743 9th Ave,Manhattan,10019,Ari/Lorena,TRUE,FALSE,FALSE
+1730916715387,NY Elite Cannabis,"42-15 Bell Blvd, Bayside, NY 11361, USA",OCM-CAURD-24-000153,NY yellow,Queens,$0.00,"$500,000",t2,42-15 Bell Blvd,Queens,11361,Ari/Lorena,TRUE,FALSE,FALSE
+1734973542238,"NYCCE - New York City Cannabis Exchange
+","248-09 Jericho Turnpike, Queens, NY 11426, USA",OCM-CAURD-24-000047,NY red,Queens,,"$500,000",t2,248-09 Jericho Turnpike,Bellerose,11426,Ari/Lorena,TRUE,FALSE,FALSE
+1738348353102,OC Dispensary - Brooklyn,"769 Franklin Ave, Brooklyn, NY 11238, USA",OCM-CAURD-25-000229,NY red,Kings,"$3,688.80","$250,000",t3,769 Franklin Ave,Brooklyn,8081,Ari/Lorena,TRUE,FALSE,FALSE
+1714753819066,Orange County Cannabis - Waywayanda,"1308 Dolsontown Rd, Middletown, NY 10940, USA",OCM-CAURD-23-000039,NY green,Orange,"$9,760.37","$1,250,000",t1,1308 Dolsontown Rd Suite 3,Middletown,10940,Lourdes,TRUE,FALSE,FALSE
+1703282744099,P. NUGGS - Malone,"4171 Route 11, Malone, NY 12953, USA",OCM-CAURD-24-000053,NY green,Franklin,,"$250,000",t3,4171 US-11,Malone,12953,Josh,TRUE,FALSE,FALSE
+1739556249513,Peace Love and Bud - Lockport,"320 S Transit St, Lockport, NY 14094, USA",OCM-RETL-24-000052,NY green,Niagara,"$2,301.64","$250,000",t3,320 S Transit St,Lockport,14094,Jordan,TRUE,FALSE,FALSE
+1725041370927,Phenos - Buffalo,"69 Allen St, Buffalo, NY 14201, USA",OCM-MICR-24-000027,NY green,Erie,,0,t4,69 Allen St,Buffalo,14202,Jordan,TRUE,FALSE,FALSE
+1715371781777,Planet Nugg,"2043 Wellwood Ave, Farmingdale, NY 11735, USA",OCM-CAURD-24-000069,NY red,Nassau,$430.55,"$1,250,000",t1,2043 Wellwood Ave,Farmingdale,11735,Ari/Lorena,TRUE,FALSE,FALSE
+1673030613689,Platinum Leaf - Rock Hill,"196 Rock Hill Dr, Rock Hill, NY 12775, USA",OCM-CAURD-24-000108,NY green,Sullivan,"$5,658.49","$250,000",t3,196 Rock Hill Dr,Rock Hill,12775,Josh,TRUE,FALSE,FALSE
+1711134265755,Polanco Brothers - Ridgewood,"6633 Fresh Pond Rd, Ridgewood, NY 11385, USA",OCM-RETL-24-000075,NY red,Queens,,"$250,000",t3,6633 Fresh Pond Rd,Queens,11385,Ari/Lorena,TRUE,FALSE,FALSE
+1713559174462,Premier Earth,"1297 Hertel Ave, Buffalo, NY 14216, USA",OCM-CAURD-23-000027,NY green,Erie,,"$500,000",t2,1297 Hertel Ave,Buffalo,14216,Jordan,TRUE,FALSE,FALSE
+1705683313999,Public Flower,"232 Allen St, Buffalo, NY 14201, USA",OCM-CAURD-24-000068,NY green,Erie,,"$250,000",t3,232 Allen St,Buffalo,14201,Jordan,TRUE,FALSE,FALSE
+1700862443197,Puro Vita - Brooklyn,"288 Flushing Ave, Brooklyn, NY 11205, USA",OCM-CAURD-24-000073,NY red,Kings,,"$250,000",t3,288 Flushing Ave,Brooklyn,11205,Ari/Lorena,TRUE,FALSE,FALSE
+1707511535155,Purple Plains,"32 Westchester Ave, Pound Ridge, NY 10576, USA",OCM-CAURD-24-000119,NY red,Westchester,"$7,805.99","$750,000",t1,32 Westchester Ave,Pound Ridge,10576,Ari/Lorena,TRUE,FALSE,FALSE
+1704487563514,Q Dispensary,"733 Flatbush Ave, Brooklyn, NY 11226, USA",OCM-RETL-24-000011,NY red,Kings,,0,t4,733 Flatbush Ave,Brooklyn,11226,Ari/Lorena,TRUE,FALSE,FALSE
+,Quality Control NY,"3169 Coney Island Ave, Brooklyn, NY 11235, USA",OCM-RETL-24-000144,NY red,Kings,,0,t4,3169 Coney Island Ave,Brooklyn,11235,Ari/Lorena,TRUE,FALSE,FALSE
+1724464215765,QUBE Cannabis Dispensary - New York,"1412 Broadway, New York, NY 10018, USA",OCM-CAURD-24-000127,NY yellow,New York,$950.22,"$1,000,000",t1,1412 Broadway,Manhattan,10018,Ari/Lorena,TRUE,FALSE,FALSE
+1738950512502,Raven's Joint,"4106 NY-31, Clay, NY 13041, USA",OCM-CAURD-24-000081,NY green,Onondaga,,"$500,000",t2,4106 NY-31 Suite 903,Clay,13041,Jordan,TRUE,FALSE,FALSE
+1702660767430,Reef Cannabis Dispensary,"2532 Route 9N, Greenfield Center, NY 12833, USA",OCM-CAURD-24-000190,NY green,Saratoga,,"$250,000",t3,2532 State Hwy 9N,Greenfield Center,12833,Jordan,TRUE,FALSE,FALSE
+1726860151660,Ripe Cannabis,"245 Broadway, Schenectady, NY 12305, USA",OCMMICR-2023-000308,NY green,Schenectady,,"$250,000",t3,245 Broadway Suite 4,Schenectady,12305,Jordan,TRUE,FALSE,FALSE
+1619543340381,RISE Dispensary - Clifton Park,"1675 Route 9, Clifton Park, NY 12065, USA",MM0705D,NY green,Saratoga,"$1,679.39","$1,250,000",t1,1675 US-9,Clifton Park,12065,Jordan,TRUE,FALSE,FALSE
+1730497899290,RISE Dispensary - Henrietta,"1150 University Ave, Rochester, NY 14607, USA","MM0706D,MM0704D",NY green,Monroe,"$3,729.30","$1,500,000",t1,1150 University Ave Bldg 5 Suite 7,Henrietta,14623,Jordan,TRUE,FALSE,FALSE
+1721157645042,RISE Dispensary - Manhattan,"2 E 30th St, New York, NY 10016, USA",MM0702D,NY red,New York,,"$250,000",t3,2 E 30th St,Manhattan,10016,Ari/Lorena,TRUE,FALSE,FALSE
+1715958400800,Riverbend Dispensary - Hudson,"531 Warren St, Hudson, NY 12534, USA",OCM-CAURD-24-000078,NY green,Columbia,,"$500,000",t2,531 Warren St,Hudson,12534,Jordan,TRUE,FALSE,FALSE
+1728397650955,RNR Dispensary,"287 Harrison Pl, Brooklyn, NY 11237, USA",OCM-CAURD-24-000207,NY red,Kings,,"$250,000",t3,287 Harrison Pl,Brooklyn,11237,Ari/Lorena,TRUE,FALSE,FALSE
+1684774963447,Robinson's Dispensary - Albany,"106 Everett Rd, Albany, NY 12205, USA",OCM-CAURD-24-000161,NY green,Albany,,"$250,000",t3,106 Everett Rd,Albany,12205,Jordan,TRUE,FALSE,FALSE
+,Rochester's Finest,"74 Lake Ave, Rochester, NY 14608, USA",OCM-RETL-24-000080,NY green,Monroe,,"$250,000",t3,74 Lake Ave,Rochester,14608,Jordan,TRUE,FALSE,FALSE
+1726251194986,Root 9 Dispensary,"1546 Route 9, Wappingers Falls, NY 12590, USA",OCM-CAURD-24-000195,NY green,Dutchess,,"$500,000",t2,1546 US-9,Wappingers Falls,12590,Josh,TRUE,FALSE,FALSE
+1745022070637,Royal Blend Dispensary,"2223 Route 32, Kingston, NY 12401, USA",OCM-CAURD-24-000179,NY green,Ulster,,"$250,000",t3,2223 NY-32,Kingston,12401,Josh,TRUE,FALSE,FALSE
+1718381436357,Royale Flower - Albany,"332 Northern Blvd, Albany, NY 12204, USA",OCM-CAURD-24-000056,NY green,Albany,"$2,378.08","$750,000",t1,332 Northern Blvd,Albany,12204,Jordan,TRUE,FALSE,FALSE
+1625749250135,RR Legacy - New York,"12 Hudson Ave, Glens Falls, NY 12801, USA",OCM-RETL-24-000142,NY green,Warren,,"$500,000",t2,12 Hudson Ave,Glens Falls,12801,Josh,TRUE,FALSE,FALSE
+1706900154884,Sacred Bloom - Vestal,"1308 Vestal Pkwy E, Vestal, NY 13850, USA",OCM-CAURD-23-000014,NY green,Broome,"$12,399.64","$1,250,000",t1,1308 Vestal Pkwy E,Vestal,13850,Jordan,TRUE,FALSE,FALSE
+1727706084738,Salmon River Cannabis Company,"3808 Route 13, Pulaski, NY 13142, USA",Unspecified,NY green,Oswego,,"$250,000",t3,3808 NY-13,Pulaski,13142,Josh,TRUE,FALSE,FALSE
+1692053359215,Sashies Dispensary,"201 Northline Rd, Ballston Spa, NY 12020, USA",OCM-RETL-24-000172,NY green,Saratoga,,"$500,000",t2,201 Northline Rd,Ballston Spa,12020,Jordan,TRUE,FALSE,FALSE
+1734121488031,Secret Garden 716,"1363 Delaware Ave, Buffalo, NY 14209, USA",OCM-CAURD-24-000160,NY green,Erie,$0.00,"$250,000",t3,1363 Delaware Ave,Buffalo,14209,Jordan,TRUE,FALSE,FALSE
+1730831331178,Sesh NYC - Bronx,"4219 Webster Ave, Bronx, NY 10470, USA",OCM-CAURD-24-000144,NY red,Bronx,"$4,303.21","$750,000",t1,4219 Webster Ave,Bronx,10470,Ari/Lorena,TRUE,FALSE,FALSE
+1716738546513,SessCo Cannabis,"115 Main st, East Rochester, NY 14445, USA",Unspecified,NY green,Monroe,,"$500,000",t2,115 Main st,East Rochester,14445,Jordan,TRUE,FALSE,FALSE
+1719328438470,Silk Road NYC,"166-30 Jamaica Ave, Queens, NY 11432, USA",OCM-CAURD-24-000062,NY yellow,Queens,,"$500,000",t2,166-30 Jamaica Ave,Jamaica,11432,Ari/Lorena,TRUE,FALSE,FALSE
+,Silver Therapeutics - Albany,"10 Executive Park Dr, Albany, NY 12203, USA","MM0104D,MM0108D",NY green,Albany,,"$250,000",t3,10 Executive Park Dr,Albany,12203,Jordan,TRUE,FALSE,FALSE
+1704488746050,Silver Therapeutics - Saratoga Springs,"75 Weibel Ave, Saratoga Springs, NY 12866, USA",OCM-RETL-24-000101,NY green,Saratoga,,"$750,000",t1,75 Weibel Ave,Saratoga Springs,12866,Jordan,TRUE,FALSE,FALSE
+1732640693328,Smacked Village,"144 Bleecker St, New York, NY 10012, USA",OCM-CAURD-23-000002,NY red,New York,,"$500,000",t2,144 Bleecker St,Manhattan,10012,Ari/Lorena,TRUE,FALSE,FALSE
+1702662089527,Smiley Exotics,"201 E 30th St, New York, NY 10016, USA",OCM-CAURD-24-000096,NY red,New York,,"$500,000",t2,201 E 30th St,Manhattan,10016,Ari/Lorena,TRUE,FALSE,FALSE
+1703281926558,Smokey Paradise - East Greenbush,"574 Columbia Turnpike, East Greenbush, New York, USA",OCM-RETL-24-000139,NY green,Rensselaer,,0,t4,574 Columbia Turnpike,East Greenbush,12061,Jordan,TRUE,FALSE,FALSE
+1711729238346,Smoking Scholars,"784 Allerton Ave, Bronx, NY 10467, USA",OCM-CAURD-24-000200,NY red,Bronx,$384.77,"$250,000",t3,784 Allerton Ave,Bronx,10467,Ari/Lorena,TRUE,FALSE,FALSE
+1715610089090,Society House - Brooklyn,"2441 Flatbush Ave, Brooklyn, NY 11234, USA",OCM-CAURD-24-000162,NY red,Kings,$0.00,"$250,000",t3,2441 Flatbush Ave,Brooklyn,11234,Ari/Lorena,TRUE,FALSE,FALSE
+1715454915993,SOFACLUB CANNABIS,"229 Avenue B, New York, NY 10009, USA",OCM-CAURD-24-000182,NY red,New York,,"$500,000",t2,229 Avenue B,Manhattan,10009,Ari/Lorena,TRUE,FALSE,FALSE
+1737144783054,Soulmate - DeKalb Ave,"237 DeKalb Ave, Brooklyn, NY 11205, USA",OCM-RETL-24-000241,NY red,Kings,,0,t4,237 DeKalb Ave,Brooklyn,11205,Ari/Lorena,TRUE,FALSE,FALSE
+1619543341395,Sparkboro,"704 W 177th St, New York, NY 10033, USA",OCM-CAURD-24-000149,NY yellow,New York,$756.98,"$500,000",t2,704 W 177th St,Manhattan,10033,Ari/Lorena,TRUE,FALSE,FALSE
+1742237662670,ST8line Canna Co,"1712 US-219, Limestone, NY 14753, USA",Unspecified,NY green,Cattaraugus,,"$250,000",t3,US-219,Salamanca,14779,Josh,TRUE,FALSE,FALSE
+1727106030594,Stage One Dispensary - Rensselaer,"810 Broadway, Rensselaer, NY 12144, USA",OCM-CAURD-23-000011,NY green,Rensselaer,"$3,940.00","$750,000",t1,810 Broadway,Rensselaer,12144,Jordan,TRUE,FALSE,FALSE
+1742570653749,Star Buds - Buffalo NY,"396 Kenmore Ave, Buffalo, NY 14223, USA",OCM-CAURD-24-000204,NY green,Erie,,"$250,000",t3,396 Kenmore Ave,Buffalo,14223,Jordan,TRUE,FALSE,FALSE
+1710530255493,Star Life - White Plains,"75 S Broadway, White Plains, NY 10601, USA",OCM-RETL-24-000159,NY red,Westchester,$645.49,"$750,000",t1,75 S Broadway #400,White Plains,10603,Ari/Lorena,TRUE,FALSE,FALSE
+,Stash Master,"1119 Broadway, Brooklyn, NY 11221, USA",OCM-CAURD-24-000217,NY red,Kings,,"$250,000",t3,1119 Broadway,Brooklyn,11221,Ari/Lorena,TRUE,FALSE,FALSE
+1743183386664,State of Mind Dispensary - Latham,"521 Troy-Schenectady Rd, Latham, NY 12110, USA",OCM-CAURD-24-000178,NY green,Albany,,"$750,000",t1,521 Troy-Schenectady Rd,Latham,12110,Jordan,TRUE,FALSE,FALSE
+1705699719465,Stoops NYC Dispensary,"182 5th Ave, New York, NY 10010, USA",OCM-CAURD-24-000082,NY red,New York,"$1,739.66","$250,000",t3,182 5th Ave,Manhattan,10010,Ari/Lorena,TRUE,FALSE,FALSE
+1717779868628,Strain Stars - Farmingdale,"1815 Broadhollow Rd, Farmingdale, NY 11735, USA",OCM-CAURD-23-000016,NY red,Nassau,"$16,950.29","$3,000,000+",t1,1815 Broadhollow Rd,Farmingdale,11735,Ari/Lorena,TRUE,FALSE,FALSE
+1712591461821,Strain Stars - Riverhead,"1871 Old Country Rd, Riverhead, NY 11901, USA",OCM-RETL-24-000223,NY red,Suffolk,"$4,633.61","$1,250,000",t1,1871 Old Country Rd,Riverhead,11901,Ari/Lorena,TRUE,FALSE,FALSE
+1712341588843,Sunnyside - Hudson Valley,"345 Route 304, Bardonia, NY 10954, USA",MM0804D,NY red,Rockland,,"$500,000",t2,345 NY-304,Bardonia,10954,Ari/Lorena,TRUE,FALSE,FALSE
+1738349236185,Sunnyside - Huntington,"277 Walt Whitman Rd, Huntington Station, NY 11746, USA",MM0803D,NY red,Suffolk,,"$500,000",t2,277 Walt Whitman Rd,Huntington Station,11746,Ari/Lorena,TRUE,FALSE,FALSE
+1725377819970,Sweetlife - New York,"1662 1st Ave, New York, NY 10028, USA",OCM-RETL-24-000107,NY red,New York,"$3,588.92","$500,000",t2,1662 1st Ave.,Manhattan,10023,Ari/Lorena,TRUE,FALSE,FALSE
+1697833036164,Terp Bros - Long Island City,"36-10 Ditmars Blvd, Queens, NY 11105, USA",OCM-CAURD-23-000020,NY red,Queens,$0.00,"$750,000",t1,36-10 Ditmars Blvd,Queens,11105,Ari/Lorena,TRUE,FALSE,FALSE
+1711155246122,The Bakery Cannabis Dispensary - Cohoes,"1099 Loudon Rd, Cohoes, NY 12047, USA",OCM-CAURD-24-000092,NY green,Albany,,"$250,000",t3,1099 Loudon Rd,Cohoes,12047,Jordan,TRUE,FALSE,FALSE
+1712609260249,The Cannabis Place - Queens,"74-03 Metropolitan Ave, Queens, NY 11379, USA",OCM-CAURD-24-000080,NY yellow,Queens,,0,t4,74-03 Metropolitan Ave,Queens,11379,Ari/Lorena,TRUE,FALSE,FALSE
+,The Emerald Dispensary - Brooklyn,"85 Suydam St, Brooklyn, NY 11221, USA",OCM-CAURD-24-000057,NY red,Kings,$265.97,"$500,000",t2,85 Suydam St,Brooklyn,11221,Ari/Lorena,TRUE,FALSE,FALSE
+1619543342413,The Emerald Dispensary - Manhattan,"1190 Lexington Ave, New York, NY 10028, USA",OCM-CAURD-24-000146,NY red,New York,$83.77,"$250,000",t3,1190 Lexington Ave,Manhattan,10028,Ari/Lorena,TRUE,FALSE,FALSE
+1619543343465,The Firehaus NY,"7479 Route 11, Potsdam, NY 13676, USA",OCM-CAURD-23-000031,NY green,St. Lawrence,$0.00,"$250,000",t3,7479 US-11,Potsdam,13676,Josh,TRUE,FALSE,FALSE
+1619543347507,The Flowery - Brooklyn,"692 Grand St, Brooklyn, NY 11211, USA",OCM-CAURD-24-000158,NY red,Kings,,"$500,000",t2,692 Grand St,Brooklyn,11211,Ari/Lorena,TRUE,FALSE,FALSE
+1731718022245,The Flowery - Queens,"6354 108th St, Forest Hills, NY 11375, USA",OCM-CAURD-24-000186,NY yellow,Queens,,"$250,000",t3,6354 108th St,Queens,11375,Ari/Lorena,TRUE,FALSE,FALSE
+1734452234924,The Flowery - Staten Island,"3022 Veterans Rd W, Staten Island, NY 10309, USA",OCM-CAURD-23-000041,NY red,Richmond,,"$1,250,000",t1,3022 Veterans Rd W,Staten Island,10309,Ari/Lorena,TRUE,FALSE,FALSE
+1690589421494,The Flowery - Upper West Side,"2465 Broadway, Manhattan, NY 10025, USA",OCM-CAURD-24-000222,NY red,New York,"$1,343.01","$500,000",t2,2465 Broadway,Manhattan,10025,Ari/Lorena,TRUE,FALSE,FALSE
+,The Flowery SoHo (Formerly Elevate Cannabis),"481 Broadway, New York, NY 10013, USA",OCM-CAURD-24-000132,NY red,New York,,"$500,000",t2,481 Broadway,Manhattan,10013,Ari/Lorena,TRUE,FALSE,FALSE
+1619408531238,The Grass Hole Cannabis,"779 Route 3, Plattsburgh, NY 12901, USA",OCM-CAURD-23-000037,NY green,Clinton,"$10,803.68","$250,000",t3,779 State Rte 3,Plattsburgh,12901,Jordan,TRUE,FALSE,FALSE
+1677263221628,The Green Door Dispensary - Ogdensburg,"3748 Route 37, Ogdensburg, NY 13669, USA",OCM-CAURD-24-000050,NY green,St. Lawrence,,"$250,000",t3,3748 NY-37,Ogdensburg,13669,Josh,TRUE,FALSE,FALSE
+1677866100395,The Herb Cave - Plattsburgh,"519 Route 3, Plattsburgh, NY 12901, USA",OCM-RETL-24-000208,NY green,Clinton,$778.78,"$250,000",t3,519 State Rte 3,Plattsburgh,12901,Josh,TRUE,FALSE,FALSE
+,The Herbal Care - New York,"1410 Lexington Ave, New York, NY 10128, USA",OCM-CAURD-23-000036,NY red,New York,"$3,373.38","$500,000",t2,1410 Lexington Ave,Manhattan,10128,Ari/Lorena,TRUE,FALSE,FALSE
+1722024442306,The Herbal Confectionery's Weedery - New York,"3 Water St, Manhattan, NY 10004, USA",OCM-MICR-24-000010,NY red,New York,,"$250,000",t3,3 Water St,Manhattan,10041,Ari/Lorena,TRUE,FALSE,FALSE
+1716597933965,The Higher Company,"123 East Willow Street, Syracuse, NY 13202, USA",OCM-CAURD-24-000155,NY green,Onondaga,,"$250,000",t3,123 East Willow Street,Syracuse,13202,Jordan,TRUE,FALSE,FALSE
+1732568255363,The Highest Peak - Potsdam,"25 Market St, Potsdam, NY 13676, USA",OCM-CAURD-23-000025,NY green,St. Lawrence,$710.05,"$250,000",t3,25 Market St,Potsdam,13676,Jordan,TRUE,FALSE,FALSE
+1702923497414,The Highly Connected - Ithaca,"423 Franklin St, Ithaca, NY 14850, USA",OCM-CAURD-24-000187,NY green,Tompkins,,"$500,000",t2,423 Franklin St,Ithaca,14850,Josh,TRUE,FALSE,FALSE
+1730829171868,The Kokoro Way,"2454 Elmwood Ave, Kenmore, NY 14217, USA",OCM-RETL-24-000135,NY green,Erie,,"$250,000",t3,2454 Elmwood Ave,Buffalo,14217,Jordan,TRUE,FALSE,FALSE
+1712589565814,The People's Joint,"501 State St, Schenectady, NY 12305, USA",OCM-CAURD-24-000181,NY green,Schenectady,,"$250,000",t3,501 State St,Schenectady,12305,Jordan,TRUE,FALSE,FALSE
+1731437573257,The Phinest Bud,"576 Dick Rd, Depew, NY 14043, USA",OCM-RETL-24-000155,NY green,Erie,,"$250,000",t3,576 Dick Rd suite 10a,Depew,14043,Jordan,TRUE,FALSE,FALSE
+1619543344455,The Plant - Yonkers,"2595 Central Park Ave, Scarsdale, NY 10583, USA",OCM-CAURD-24-000063,NY red,Westchester,,"$500,000",t2,2595 Central Park Ave,Yonkers,10710,Ari/Lorena,TRUE,FALSE,FALSE
+1740416692719,The Plug,"428 Rogers Ave, Brooklyn, NY 11225, USA",OCM-CAURD-24-000210,NY red,Kings,,"$500,000",t2,428 Rogers Ave,Brooklyn,11225,Ari/Lorena,TRUE,FALSE,FALSE
+1721229790249,The Purple Owl - White Plains,"405 Mamaroneck Ave, White Plains, NY 10605, USA",OCM-CAURD-24-000124,NY red,Westchester,,"$250,000",t3,405 Mamaroneck Ave,White Plains,10605,Ari/Lorena,TRUE,FALSE,FALSE
+1721231975425,The Service -  New York,"121 W 27th St, New York, NY 10001, USA",Unspecified,NY red,New York,,0,t4,121 W 27th St,Manhattan,10001,Ari/Lorena,TRUE,FALSE,FALSE
+1724684079876,The Spot Dispensary - Brooklyn,"154 Vanderbilt Ave, Brooklyn, NY 11205, USA",OCM-CAURD-24-000051,NY red,Kings,,"$250,000",t3,154 Vanderbilt Ave,Brooklyn,11205,Ari/Lorena,TRUE,FALSE,FALSE
+1691172222671,The Station Dispensary - Beacon,"463 Main St, Beacon, NY 12508, USA",OCM-RETL-24-000259,NY green,Dutchess,,"$250,000",t3,463 Main St,Beacon,12508,Josh,TRUE,FALSE,FALSE
+1731087344052,The THC Shop - Rosedale,"144-144 243rd St, Rosedale, NY 11422, USA",OCM-RETL-24-000027,NY red,Queens,,"$250,000",t3,144-144 243rd St,Rosedale,11422,Ari/Lorena,TRUE,FALSE,FALSE
+1720196126979,The Travel Agency - Downtown Brooklyn,"122 Flatbush Ave, Brooklyn, NY 11217, USA",OCM-CAURD-24-000091,NY red,Kings,"$15,755.17","$2,500,000",t1,122 Flatbush Ave,Brooklyn,11217,Ari/Lorena,TRUE,FALSE,FALSE
+1738348358933,The Travel Agency - Fifth Avenue,"587 5th Ave, New York, NY 10017, USA",OCM-CAURD-24-000125,NY red,New York,"$6,140.78","$1,250,000",t1,587 5th Ave,Manhattan,10017,Ari/Lorena,TRUE,FALSE,FALSE
+1722024446407,The Travel Agency - Union Square,"62 E 13th St, New York, NY 10003, USA",OCM-CAURD-23-000003,NY red,New York,"$15,387.64","$2,250,000",t1,62 E 13th St,Manhattan,10003,Ari/Lorena,TRUE,FALSE,FALSE
+1732562777199,The Village Green - New Hartford,"12 New Hartford Shopping Center, New Hartford, NY 13413, USA",OCM-RETL-24-000090,NY green,Oneida,"$5,968.51","$250,000",t3,12 New Hartford Shopping Center,New Hartford,13413,Jordan,TRUE,FALSE,FALSE
+1730920389224,THE WEED SHOPPE INC,"4906 Arthur Kill Rd, Staten Island, NY 10309, USA",OCM-CAURD-24-000126,NY red,Richmond,,"$250,000",t3,4906 Arthur Kill Rd,Staten Island,10309,Ari/Lorena,TRUE,FALSE,FALSE
+1735322883564,Third Rock Cannabis,"131 Saratoga Ave, South Glens Falls, NY 12803, USA",Unspecified,NY green,Warren,,0,t4,131 Saratoga Ave suite 7,Glens Falls,12803,Josh,TRUE,FALSE,FALSE
+1725124988028,THTree - Coxsackie,"12193 Route 9W, Coxsackie, NY 12192, USA",OCM-RETL-24-000031,NY green,Greene,,"$500,000",t2,12193 Rte 9W,Coxsackie,12192,Jordan,TRUE,FALSE,FALSE
+,TJ's Cannabis Company,"4205 Long Branch Road, Liverpool, NY 13090 USA",OCM-CAURD-23-000040,NY green,Onondaga,,"$1,000,000",t1,4205 Long Branch Road,Liverpool,13090,Jordan,TRUE,FALSE,FALSE
+1692399501526,Token Cannabis Dispensary,"92-29 Queens Blvd, Queens, NY 11374, USA",OCM-CAURD-25-000231,NY red,Queens,,"$750,000",t1,92-29 Queens Blvd CU9,Queens,11374,Ari/Lorena,TRUE,FALSE,FALSE
+1677866099388,Torches NYC Dispensary,"12 E 42nd St, New York, NY 10017, USA",OCM-CAURD-24-000077,NY red,New York,,"$750,000",t1,12 E 42nd St,Manhattan,10017,Ari/Lorena,TRUE,FALSE,FALSE
+1700246573976,Transcend Wellness - Troy,"289 Oakwood Ave, Troy, NY 12182, USA",OCM-CAURD-24-000133,NY green,Rensselaer,,"$250,000",t3,289 Oakwood Ave,Troy,12182,Jordan,TRUE,FALSE,FALSE
+1719600582329,TreeHead Culture,"665 N French Rd, Buffalo, NY 14228, USA",OCM-CAURD-24-000085,NY green,Erie,"$8,893.54","$500,000",t2,665 N French Rd,Buffalo,14228,Jordan,TRUE,FALSE,FALSE
+,Treehouse Cannabis Dispensary - Nyack,"28 Route 59, Nyack, NY 10960, USA",OCM-CAURD-24-000122,NY red,Rockland,"$5,521.43","$1,250,000",t1,28 NY-59,Nyack,10960,Ari/Lorena,TRUE,FALSE,FALSE
+1737144779982,Trends Dispensary - Long Island City,"27-25 44th Dr, Long Island City, NY 11101, USA",OCM-CAURD-24-000100,NY red,Queens,,"$500,000",t2,27-25 44th Dr,Queens,11101,Ari/Lorena,TRUE,FALSE,FALSE
+1709920501098,Twisted Cannabis FLX,"501 Exchange St, Geneva, NY 14456, USA",OCM-RETL-24-000053,NY green,Ontario,,"$250,000",t3,501 Exchange St,Geneva,14456,Jordan,TRUE,FALSE,FALSE
+1725649482547,Two Buds - Bronx,"696 E 241st St, Bronx, NY 10470, USA",OCM-CAURD-24-000105,NY red,Bronx,,"$250,000",t3,696 E 241st St,Bronx,10470,Ari/Lorena,TRUE,FALSE,FALSE
+1737147689764,Upstate Canna Co,"1613 Union St, Schenectady, NY 12309, USA",OCM-CAURD-23-000005,NY green,Schenectady,,"$1,250,000",t1,1613 Union St,Schenectady,12309,Jordan,TRUE,FALSE,FALSE
+1706296339346,Upstate Exotics,"9200 Niagara Falls Blvd, Niagara Falls, NY 14304, USA",OCM-CAURD-24-000147,NY green,Niagara,,"$250,000",t3,9200 Niagara Falls Blvd,Niagara Falls,14304,Jordan,TRUE,FALSE,FALSE
+1705336448755,Upstate Pines,"7345 S Broadway, Red Hook, NY 12571, USA",OCM-RETL-24-000224,NY green,Dutchess,,"$250,000",t3,7345 S Broadway,Red Hook,12571,Josh,TRUE,FALSE,FALSE
+1702052201921,Urban Leaf - New York,"977 2nd Ave, New York, NY 10022, USA",OCM-CAURD-24-000121,NY red,New York,,"$500,000",t2,977 2nd Ave,Manhattan,10022,Ari/Lorena,TRUE,FALSE,FALSE
+1722616905972,Urban Weeds - Astoria,"31 Steinway St, Astoria, NY 11103, USA",OCM-CAURD-23-000042,NY red,Queens,"$1,189.24","$500,000",t2,31-35 Steinway St,Queens,11103,Ari/Lorena,TRUE,FALSE,FALSE
+1732568254338,Valley Greens,"939 Central Ave, Peekskill, NY 10566, USA",OCM-CAURD-24-000138,NY green,Westchester,,"$250,000",t3,939 Central Ave,Peekskill,10566,Josh,TRUE,FALSE,FALSE
+,Vaporize - South Richmond Hill,"124-20 Liberty Ave, South Richmond Hill, NY 11419, USA",OCM-RETL-24-000146,NY red,Queens,,0,t4,124-20 Liberty Ave,South Richmond Hill,11433,Ari/Lorena,TRUE,FALSE,FALSE
+1689362511279,VedaLeaf,"2921 Erie Blvd E, Syracuse, NY 13224, USA",OCM-CAURD-24-000198,NY green,Onondaga,"$2,057.84","$500,000",t2,2921 Erie Blvd E Suite 3,Syracuse,13224,Jordan,TRUE,FALSE,FALSE
+1716738552816,Verdi Cannabis Store - Manhattan,"158 W 23rd St, New York, NY 10011, USA",OCM-CAURD-23-000044,NY red,New York,"$3,690.56","$750,000",t1,158 W 23rd St,Manhattan,10011,Ari/Lorena,TRUE,FALSE,FALSE
+1713559177535,Verilife - Albany,"10 Executive Park Dr, Albany, NY 12203, USA","MM0104D,MM0108D",NY green,Albany,,"$250,000",t3,10 Executive Park Dr,Latham,12110,Jordan,TRUE,FALSE,FALSE
+1719598508052,Verilife - Amherst North Delivery,"25 N Pointe Pkwy, Buffalo, NY 14228, USA",MM0102D,NY green,Erie,,0,t4,25 N Pointe Pkwy,Amherst,14228,Jordan,TRUE,FALSE,FALSE
+1706282725018,Verilife - Buffalo NY,"3760 Union Rd, Buffalo, NY 14225, USA",Unspecified,NY green,Erie,,0,t4,3760 Union Rd,Buffalo,14225,Jordan,TRUE,FALSE,FALSE
+1737147693860,Verilife - East Syracuse,"642 Old Liverpool Rd, Liverpool, NY 13088, USA","OCM-XROD-23-000002,MM0107D",NY green,Onondaga,,"$500,000",t2,642 Old Liverpool Rd,East Syracuse,13057,Jordan,TRUE,FALSE,FALSE
+1701457378838,Verona Collective - Willow Place,"5250 Willow Pl, Verona, NY 13478, USA",Verona Collective | Oneida Indian Nation,NY green,Oneida,,"$500,000",t2,5250 Willow Pl,Verona,13478,Jordan,TRUE,FALSE,FALSE
+1708709288696,Verona Collective – Chittenango,"606 Genesee Turnpike, Chittenango, NY 13037, USA",Unspecified,NY green,Madison,,"$250,000",t3,606 Genesee Turnpike,Chittenango,13037,Jordan,TRUE,FALSE,FALSE
+1707506335094,Verona Collective – Sherrill,"10 E State St, Sherrill, NY 13461, USA",OCM-CAURD-23-000006,NY green,Oneida,,"$250,000",t3,10 E State St,Sherrill,13461,Jordan,TRUE,FALSE,FALSE
+1738343089487,Verona Collective – Verona Crossroads,"5528 Route 31, Verona, NY 13478, USA",Unspecified,NY green,Oneida,,"$500,000",t2,5528 NY-31,Verona,13478,Jordan,TRUE,FALSE,FALSE
+1717873172461,Vireo - Queens,"55 Queens Blvd #89, Queens, NY 11373, USA",MM0205D,NY red,Queens,,"$250,000",t3,55 Queens Blvd #89,Queens,11373,Ari/Lorena,TRUE,FALSE,FALSE
+1717873170196,Vireo - Queens North Delivery,"55 Queens Blvd #89, Queens, NY 11373, USA",MM0204D,NY red,Queens,,0,t4,55 Queens Blvd #89,Queens,11432,Ari/Lorena,TRUE,FALSE,FALSE
+1619543348525,Vireo - Queens South Delivery,"55 Queens Blvd #89, Queens, NY 11373, USA",MM0204D,NY red,Queens,,0,t4,55 Queens Blvd #89,Queens,11432,Ari/Lorena,TRUE,FALSE,FALSE
+1712948805338,Weedside Dispensary - Woodside,"50-50 72nd St, Queens, NY 11370, USA",OCM-RETL-24-000046,NY red,Queens,$371.93,"$250,000",t3,50-50 72nd St,Queens,11377,Ari/Lorena,TRUE,FALSE,FALSE
+1743196343956,White Atmoss Canna - Newburgh,"136 Lake St, Newburgh, NY 12550, USA",OCM-RETL-24-000097,NY green,Orange,,"$250,000",t3,136 Lake St Suite 2,Newburgh,12550,Josh,TRUE,FALSE,FALSE
+1721231977480,White Plains Cannabis Growers Showcase - Leafology,"244 Main St, White Plains, NY 10601, USA",OCM-CAURD-24-000112,NY red,Westchester,,"$1,000,000",t1,244 Main St Suite 1,White Plains,10601,Ari/Lorena,TRUE,FALSE,FALSE
+,Wild Flower - Auburn,"41 Genesee St, Auburn, NY 13021, USA",OCM-RETL-24-000029,NY green,Cayuga,,"$250,000",t3,41 Genesee St,Auburn,13021,Jordan,TRUE,FALSE,FALSE
+1699042216430,Wilde Roots Dispensary - Castleton,"4179 Route 20, Castleton-On-Hudson, NY 12033, USA",OCM-RETL-24-000081,NY green,Rensselaer,,"$250,000",t3,4179 US-20,Castleton,12033,Jordan,TRUE,FALSE,FALSE
+1745006554166,William Jane,"115 Park Ave, Binghamton, NY 13903, USA",OCM-CAURD-23-000006,NY green,Tompkins,,"$250,000",t3,115 Park Ave,Ithaca,14850,Josh,TRUE,FALSE,FALSE
+1725649885741,Windy Hill Wellness / Cannabis Dispensary,"106 Main St, Greenwich, NY 12834, USA",OCM-RETL-24-000134,NY green,Washington,,"$250,000",t3,106 Main St,Greenwich,12834,Jordan,TRUE,FALSE,FALSE
+1719933510634,Woodstock Oasis - Bethel,"2166 Route 17B, Bethel, NY 12720, USA",OCM-RETL-24-000150,NY green,Sullivan,,"$250,000",t3,2166 NY-17B,Bethel,12720,Josh,TRUE,FALSE,FALSE
+1744395006381,Yerba Buena - Brooklyn,"292 Atlantic Avenue, Brooklyn, NY 11201, USA",OCM-CAURD-24-000167,NY red,Kings,,"$250,000",t3,292 Atlantic Avenue,Brooklyn,11201,Ari/Lorena,TRUE,FALSE,FALSE
+1725900484828,Yeti Canna - Lackawanna,"1385 Abbott Rd, Lackawanna, NY 14218, USA",OCM-RETL-24-000069,NY green,Erie,,"$250,000",t3,1385 Abbott Rd,Buffalo,14218,Jordan,TRUE,FALSE,FALSE
+1716597934453,ZenZest,"2343 Forest Ave, Staten Island, NY 10303, USA",OCM-RETL-24-000099,NY red,Richmond,"$1,438.22","$500,000",t2,2343 Forest Ave Store #3,Staten Island,10303,Ari/Lorena,TRUE,FALSE,FALSE
+,Altitude Ithaca,1429 Danby Rd,"missing from hoodie, reaching out to get inputted ",,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Beleaf Medford,262 Middle Island Rd,"missing from hoodie, reaching out to get inputted ",,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Blue Forest Farms Dispensary LLC,122 E 25th St.,"missing from hoodie, reaching out to get inputted ",,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Bodega Express,18-39 41st St,"missing from hoodie, reaching out to get inputted ",NY red,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Caffiend (DBA The Bushwick),892 Wyckoff Ave,"missing from hoodie, reaching out to get inputted ",NY red,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Cannabis Emporium Corp.,"2460 Williamsbridge Road, Bronx, NY 10469","missing from hoodie, reaching out to get inputted ",,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Canterra,"275 Cooper Ave. Suite 102 Tonawanda, NY 14150","missing from hoodie, reaching out to get inputted ",,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Collective High LLC,188 Grand Street,"missing from hoodie, reaching out to get inputted ",,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Command Cannabis Dispensary,"3871 South Park ave, Blasdell, NY, United States, New York","missing from hoodie, reaching out to get inputted ",,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Essential Flowers dba Legacy Dispensers,2 Anderson Dr.,,,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Exotic Herbals,426 Rogers Ave,"missing from hoodie, reaching out to get inputted ",,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Flynnstoned (ROC)- State St,"125 State St Rochester, NY 14614","missing from hoodie, reaching out to get inputted ",NY green,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Flynnstoned Oswego,"143 George St Oswego, NY 13126","missing from hoodie, reaching out to get inputted ",NY green,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Flynnstoned- Auburn,"48 E Genesee St Auburn, NY 13021","missing from hoodie, reaching out to get inputted ",NY green,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Flynnstoned- Buffalo,"6850 Main St Suite 1 Williamsville, NY 14221","missing from hoodie, reaching out to get inputted ",NY green,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Flynnstoned- North Syracuse,"3711 Brewerton RdSTE 8-10 North Syracuse, NY 13212","missing from hoodie, reaching out to get inputted ",NY green,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Flynnstoned- ROC Ridge Rd,"714 W Ridge Rd Rochester, NY 14615","missing from hoodie, reaching out to get inputted ",NY green,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Greens Greenery,54 State Highway 357,"missing from hoodie, reaching out to get inputted ",,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Happy Goat Dispensary,1330 Mt Hope Ave,"missing from hoodie, reaching out to get inputted ",,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Havana smoke shop 2,"2114 John F Kennedy BlvdUnion City, NJ 07087United States","missing from hoodie, reaching out to get inputted ",,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,HerbalWai,"6970 Transit Road Williamsville, NY 14221","missing from hoodie, reaching out to get inputted ",,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Herbarium,465 Onderdonk Ave.,"missing from hoodie, reaching out to get inputted ",NY red,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Holy Buds,165A Marine Street,"missing from hoodie, reaching out to get inputted ",,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Housing Works,126 Crosby Street,"missing from hoodie, reaching out to get inputted ",,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Hydrophonics Cannabis Dispensary,670 Old Willets Path,"missing from hoodie, reaching out to get inputted ",,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Ignyte - Brooklyn,387 Van Brunt St.,"missing from hoodie, reaching out to get inputted ",,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Ignyte - Queens,14518 14th Ave,"missing from hoodie, reaching out to get inputted ",,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Just a Little Higher-Queens-Delivery Only,11303 Sutphin Blvd,"missing from hoodie, reaching out to get inputted ",,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Key Foods,"991 Fulton St, Brooklyn, NY 11238","missing from hoodie, reaching out to get inputted ",,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Luxus Botanica,"8234 Turin Rd, Ste 1","missing from hoodie, reaching out to get inputted ",,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Madame Jane Dispensary,102 State Street,"missing from hoodie, reaching out to get inputted ",,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Mango Cannabis,3553 West Henrietta Road,"missing from hoodie, reaching out to get inputted ",,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Mello Tymes,"2572 Wallace Ave. Bronx, NY 10467","missing from hoodie, reaching out to get inputted ",,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,No Name CannBis,137 4th St,"missing from hoodie, reaching out to get inputted ",,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,NYC BUD,"4445 Vernon Blvd, Long Island City, NY 11101","missing from hoodie, reaching out to get inputted ",NY red,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,One Stop Smoke Shop,11 Commercial St,"missing from hoodie, reaching out to get inputted ",,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Oz,"1547 Arthur Kill Road, Staten Island, NY 10312","missing from hoodie, reaching out to get inputted ",,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Satisfied Mind,31 Webster St,"missing from hoodie, reaching out to get inputted ",,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Statis Cannabis - New York,"817 E. Tremont Ave. Bronx, NY 10460",OCM-CAURD-23-000015,,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,The Bud Pub,"540 clematis st, Suite 5 BLD 5, West palm beach","missing from hoodie, reaching out to get inputted ",,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,The Cannabis Place,11709 Hillside Ave.,"missing from hoodie, reaching out to get inputted ",,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,The Cannabis Store,1936 South Park Ave,"missing from hoodie, reaching out to get inputted ",,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,The Chronic Dispensary,1284 Central Ave Albany NY 12205,"missing from hoodie, reaching out to get inputted ",,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,The Dabber Hashery,"1051 College Ave, Elmira, NY 14901","missing from hoodie, reaching out to get inputted ",,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Three Buds Cannabis,80 North Main Street,"missing from hoodie, reaching out to get inputted ",,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Tiki Leaves,1511 Neptune Ave,"missing from hoodie, reaching out to get inputted ",,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Twisted Vibration,301 Broadway,"missing from hoodie, reaching out to get inputted ",,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Union Chill Cannabis Co.,34 W. Pulteney St.,"missing from hoodie, reaching out to get inputted ",,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Upstate Canna Co - Glenville,126 Saratoga Rd,"missing from hoodie, reaching out to get inputted ",,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,William Jane,"115 Park Ave Ithaca, New York 14850",OCM-CAURD-23-000006,NY green,n/a,,"$250,000",t4,"115 Park Ave Ithaca, New York 14850",,,Josh,FALSE,FALSE,FALSE
+,Terp Bros - Ozone Park ,"135-26 Cross Bay Blvd, Ozone Park, NY 11417",,NY red,n/a,,,n/a,,,,Ari,FALSE,FALSE,FALSE
+,Green Leaf Cannabis and Wellness,"1400 NY-300, Newburgh, NY 12550",,NY green,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Quality Roots,"330 Tompkins Ave, Brooklyn",,NY red,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Jungle Kingdom Flower Dispensary,"515 Nostrand Ave, Brooklyn, NY 11216",,NY red,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,All Good Dispensary,"3405 Avenue H, Brooklyn, NY 11210",,NY red,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,NYC Bud- 39th St,"405 W 39th St, New York, NY 10018",,NY red,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Mary Jane- Lexington ave,"799 Lexington Ave, New York, NY 10065",,NY red,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,"Flynn Stoned- 2nd ave, Manhattan ",,,NY red,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Grams Dispensary - Brooklyn,"360 Graham Ave, Brooklyn, NY 11211",,NY red,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Empire Cannabis Co - Manhattan,"424 Broadway, New York, NY 10013",,NY red,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Elevate HQ,"701 8th Ave.
+New York , NY, 10036",,NY red,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
+,Bud City- Brooklyn,,,,n/a,,,n/a,,,,,FALSE,FALSE,FALSE
