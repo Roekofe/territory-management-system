@@ -1,0 +1,31 @@
+{
+  "name": "territory-management-system",
+  "version": "1.0.0",
+  "description": "A web application for managing sales territories, accounts, and revenue tracking",
+  "main": "index.js",
+  "scripts": {
+    "dev": "supabase start && echo 'Development server ready'",
+    "build": "echo 'Build process will be handled by Loveable'",
+    "test": "echo 'Tests will be added during development'",
+    "lint": "echo 'Linting will be configured during development'",
+    "supabase:start": "supabase start",
+    "supabase:stop": "supabase stop",
+    "supabase:status": "supabase status",
+    "supabase:reset": "supabase db reset"
+  },
+  "keywords": [
+    "territory-management",
+    "sales",
+    "supabase",
+    "loveable",
+    "web-app"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "supabase": "^1.0.0"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.0.0"
+  }
+}
